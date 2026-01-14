@@ -1,0 +1,54 @@
+services:
+  # MySQL 数据库
+  mysql:
+    image: mysql:8.0
+    container_name: ai_papers_mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD:-root123}
+      MYSQL_DATABASE: ${DB_DATABASE:-ai_papers}
+      MYSQL_CHARSET: utf8mb4
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ../database/schema.sql:/docker-entrypoint-initdb.d/01-init.sql
+    ports:
+      - "${DB_PORT:-3306}:3306"
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - ai_papers_network
+
+  # 定时调度器
+  scheduler:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: ai_papers_scheduler
+    restart: unless-stopped
+    depends_on:
+      mysql:
+        condition: service_healthy
+    environment:
+      - DB_HOST=mysql
+      - DB_PORT=3306
+      - DB_USER=root
+      - DB_PASSWORD=${DB_PASSWORD:-root123}
+      - DB_DATABASE=${DB_DATABASE:-ai_papers}
+      - DB_CHARSET=utf8mb4
+    env_file:
+      - ../.env
+    volumes:
+      - ../logs:/app/logs
+    networks:
+      - ai_papers_network
+    command: ["python", "scheduler.py"]
+
+volumes:
+  mysql_data:
+
+networks:
+  ai_papers_network:
+    driver: bridge
