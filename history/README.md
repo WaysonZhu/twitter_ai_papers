@@ -8,6 +8,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
+### 2026-01-23
+
+**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)** NEW
+
+*Published: 2026-01-05*
+
+*Jiaqi Liu, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,675-blue)](https://github.com/aiming-lab/SimpleMem)
+
+---
+
+**[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)** NEW
+
+*Published: 2025-12-11*
+
+*Lars Mescheder, Wei Dong, Shiwei Li, Xuyang Bai, Marcel Santos, Peiyun Hu, Bruno Lecouat, Mingmin Zhen, Amaël Delaunoy, Tian Fang, Yanghai Tsin, Stephan R. Richter, Vladlen Koltun*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-7,050-blue)](https://github.com/apple/ml-sharp)
+
+---
+
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)** NEW
+
+*Published: 2025-11-17*
+
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-15,729-blue)](https://github.com/openai/agents.md)
+
+---
+
+**[Recursive Language Models](https://huggingface.co/papers/2512.24601)** NEW
+
+*Published: 2025-12-31*
+
+*Alex L. Zhang, Tim Kraska, Omar Khattab*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,520-blue)](https://github.com/alexzhang13/rlm/tree/main)
+
+---
+
+**[InfiAgent: An Infinite-Horizon Framework for General-Purpose Autonomous Agents](https://huggingface.co/papers/2601.03204)** NEW
+
+*Published: 2026-01-06*
+
+*Chenglin Yu, Yuchen Wang, Songmiao Wang, Hongxia Yang, Ming Li*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-565-blue)](https://github.com/ChenglinPoly/infiAgent)
+
+---
+
+
 ### 2026-01-21
 
 **[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)** NEW
