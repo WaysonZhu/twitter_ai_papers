@@ -8,7 +8,57 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
-### 2026-01-21
+### 2026-01-23
+
+**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)** NEW
+
+*Published: 2026-01-05*
+
+*Jiaqi Liu, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,675-blue)](https://github.com/aiming-lab/SimpleMem)
+
+---
+
+**[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)** NEW
+
+*Published: 2025-12-11*
+
+*Lars Mescheder, Wei Dong, Shiwei Li, Xuyang Bai, Marcel Santos, Peiyun Hu, Bruno Lecouat, Mingmin Zhen, Amaël Delaunoy, Tian Fang, Yanghai Tsin, Stephan R. Richter, Vladlen Koltun*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-7,050-blue)](https://github.com/apple/ml-sharp)
+
+---
+
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)** NEW
+
+*Published: 2025-11-17*
+
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-15,729-blue)](https://github.com/openai/agents.md)
+
+---
+
+**[Recursive Language Models](https://huggingface.co/papers/2512.24601)** NEW
+
+*Published: 2025-12-31*
+
+*Alex L. Zhang, Tim Kraska, Omar Khattab*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,520-blue)](https://github.com/alexzhang13/rlm/tree/main)
+
+---
+
+**[InfiAgent: An Infinite-Horizon Framework for General-Purpose Autonomous Agents](https://huggingface.co/papers/2601.03204)** NEW
+
+*Published: 2026-01-06*
+
+*Chenglin Yu, Yuchen Wang, Songmiao Wang, Hongxia Yang, Ming Li*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-565-blue)](https://github.com/ChenglinPoly/infiAgent)
+
+---
 
 **[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)** NEW
 
@@ -207,56 +257,6 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 *GigaBrain Team, Angen Ye, Boyuan Wang, Chaojun Ni, Guan Huang, Guosheng Zhao, Haoyun Li, Jie Li, Jiagang Zhu, Lv Feng, Peng Li, Qiuping Deng, Runqi Ouyang, Wenkang Qin, Xinze Chen, Xiaofeng Wang, Yang Wang, Yifan Li, Yilong Li, Yiran Ding, Yuan Xu, Yun Ye, Yukun Zhou, Zhehao Dong, Zhenan Wang, etc.*
 
 ![](https://img.shields.io/badge/Citations-5-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-1,812-blue)](https://github.com/open-gigaai/giga-brain-0) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
-
----
-
-**[SAM 3D: 3Dfy Anything in Images](https://huggingface.co/papers/2511.16624)** NEW
-
-*Published: 2025-11-20*
-
-*SAM 3D Team, Xingyu Chen, Fu-Jen Chu, Pierre Gleize, Kevin J Liang, Alexander Sax, Hao Tang, Weiyao Wang, Michelle Guo, Thibaut Hardin, Xiang Li, Aohan Lin, Jiawei Liu, Ziqi Ma, Anushka Sagar, Bowen Song, Xiaodong Wang, Jianing Yang, Bowen Zhang, Piotr Dollár, Georgia Gkioxari, Matt Feiszli, Jitendra Malik*
-
-![](https://img.shields.io/badge/Citations-5-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-5,687-blue)](https://github.com/facebookresearch/sam-3d-objects) ![](https://img.shields.io/badge/Mendeley%20Readers-61-red)
-
----
-
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)** NEW
-
-*Published: 2025-11-25*
-
-*Cheng Cui, Ting Sun, Suyin Liang, Tingquan Gao, Zelun Zhang, Jiaxuan Liu, Xueqing Wang, Changda Zhou, Hongen Liu, Manhui Lin, Yue Zhang, Yubo Zhang, Handong Zheng, Jing Zhang, Jun Zhang, Yi Liu, Dianhai Yu, Yanjun Ma*
-
-![](https://img.shields.io/badge/Citations-12-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-68,469-blue)](https://github.com/PaddlePaddle/PaddleOCR) ![](https://img.shields.io/badge/Mendeley%20Readers-28-red)
-
----
-
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)** NEW
-
-*Published: 2025-09-29*
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu, Bin Wang, Linke Ouyang, Zhiyuan Zhao, Tao Chu, Tianyao He, Fan Wu, Qintong Zhang, Zhenjiang Jin, Guang Liang, Rui Zhang, Wenzheng Zhang, Yuan Qu, Zhifei Ren, Yuefeng Sun, Yuanhong Zheng, Dongsheng Ma, Zirui Tang, Boyu Niu, Ziyang Miao, Hejun Dong, Siyi Qian, Junyuan Zhang, etc.*
-
-![](https://img.shields.io/badge/Citations-16-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-52,436-blue)](https://github.com/opendatalab/MinerU) ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)
-
----
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)** NEW
-
-*Published: 2025-12-08*
-
-*Z-Image Team, Huanqia Cai, Sihan Cao, Ruoyi Du, Peng Gao, Steven Hoi, Zhaohui Hou, Shijie Huang, Dengyang Jiang, Xin Jin, Liangchen Li, Zhen Li, Zhong-Yu Li, David Liu, Dongyang Liu, Junhan Shi, Qilong Wu, Feng Yu, Chi Zhang, Shifeng Zhang, Shilin Zhou*
-
-![](https://img.shields.io/badge/Citations-4-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-9,152-blue)](https://github.com/Tongyi-MAI/Z-Image) ![](https://img.shields.io/badge/Mendeley%20Readers-37-red)
-
----
-
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)** NEW
-
-*Published: 2025-08-26*
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang, Yaoyao Chang, Yutao Sun, Li Dong, Yi Zhu, Weijiang Xu, Hangbo Bao, Zehua Wang, Shaohan Huang, Yan Xia, Furu Wei*
-
-![](https://img.shields.io/badge/Citations-11-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-20,548-blue)](https://github.com/microsoft/VibeVoice) ![](https://img.shields.io/badge/Mendeley%20Readers-16-red)
 
 ---
 
