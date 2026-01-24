@@ -10,16 +10,6 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ### 2026-01-24
 
-**[Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564)** NEW
-
-*Published: 2026-01-13*
-
-*Yuyang Hu, Shichun Liu, Yanwei Yue, Guibin Zhang, Boyang Liu, Fangyi Zhu, Jiahang Lin, Honglin Guo, Shihan Dou, Zhiheng Xi, Senjie Jin, Jiejun Tan, Yanbin Yin, Jiongnan Liu, Zeyu Zhang, Zhongxiang Sun, Yutao Zhu, Hao Sun, Boci Peng, Zhenrong Cheng, Xuanbo Fan, Jiaxin Guo, Xinlei Yu, Zhenhong Zhou, Zewen Hu, etc.*
-
-![](https://img.shields.io/badge/Citations-26-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-948-blue)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) ![](https://img.shields.io/badge/Mendeley%20Readers-33-red)
-
----
-
 **[SAMTok: Representing Any Mask with Two Words](https://huggingface.co/papers/2601.16093)** NEW
 
 *Published: 2026-01-22*
@@ -50,13 +40,23 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model](https://arxiv.org/abs/2510.10274)** NEW
+**[End-to-End Test-Time Training for Long Context](https://huggingface.co/papers/2512.23675)** NEW
 
-*Published: 2025-10-11*
+*Published: 2025-12-31*
 
-*Jinliang Zheng, Jianxiong Li, Zhihao Wang, Dongxiu Liu, Xirui Kang, Yuchun Feng, Yinan Zheng, Jiayin Zou, Yilun Chen, Jia Zeng, Ya-Qin Zhang, Jiangmiao Pang, Jingjing Liu, Tai Wang, Xianyuan Zhan*
+*Arnuv Tandon, Karan Dalal, Xinhao Li, Daniel Koceja, Marcel Rød, Sam Buchanan, Xiaolong Wang, Jure Leskovec, Sanmi Koyejo, Tatsunori Hashimoto, Carlos Guestrin, Jed McCaleb, Yejin Choi, Yu Sun*
 
-![](https://img.shields.io/badge/Citations-15-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-459-blue)](https://github.com/2toinf/X-VLA) ![](https://img.shields.io/badge/Mendeley%20Readers-17-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-443-blue)](https://github.com/test-time-training/e2e) ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)
+
+---
+
+**[ShapeR: Robust Conditional 3D Shape Generation from Casual Captures](https://huggingface.co/papers/2601.11514)** NEW
+
+*Published: 2026-01-16*
+
+*Yawar Siddiqui, Duncan Frost, Samir Aroudj, Armen Avetisyan, Henry Howard-Jenkins, Daniel DeTone, Pierre Moulon, Qirui Wu, Zhengqin Li, Julian Straub, Richard Newcombe, Jakob Engel*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-412-blue)](https://github.com/facebookresearch/ShapeR) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
 
 ---
 
