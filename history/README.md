@@ -10,16 +10,6 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ### 2026-01-24
 
-**[X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model](https://arxiv.org/abs/2510.10274)** NEW
-
-*Published: 2025-10-11*
-
-*Jinliang Zheng, Jianxiong Li, Zhihao Wang, Dongxiu Liu, Xirui Kang, Yuchun Feng, Yinan Zheng, Jiayin Zou, Yilun Chen, Jia Zeng, Ya-Qin Zhang, Jiangmiao Pang, Jingjing Liu, Tai Wang, Xianyuan Zhan*
-
-![](https://img.shields.io/badge/Citations-15-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-459-blue)](https://github.com/2toinf/X-VLA) ![](https://img.shields.io/badge/Mendeley%20Readers-17-red)
-
----
-
 **[Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://huggingface.co/papers/2601.11868)** NEW
 
 *Published: 2026-01-17*
@@ -47,16 +37,6 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 *Yikang Zhou, Tao Zhang, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, Hao Fei, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, Xiangtai Li*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-1,501-blue)](https://github.com/bytedance/Sa2VA/tree/main/projects/samtok)
-
----
-
-**[Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564)** NEW
-
-*Published: 2026-01-13*
-
-*Yuyang Hu, Shichun Liu, Yanwei Yue, Guibin Zhang, Boyang Liu, Fangyi Zhu, Jiahang Lin, Honglin Guo, Shihan Dou, Zhiheng Xi, Senjie Jin, Jiejun Tan, Yanbin Yin, Jiongnan Liu, Zeyu Zhang, Zhongxiang Sun, Yutao Zhu, Hao Sun, Boci Peng, Zhenrong Cheng, Xuanbo Fan, Jiaxin Guo, Xinlei Yu, Zhenhong Zhou, Zewen Hu, etc.*
-
-![](https://img.shields.io/badge/Citations-26-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-948-blue)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) ![](https://img.shields.io/badge/Mendeley%20Readers-33-red)
 
 ---
 
