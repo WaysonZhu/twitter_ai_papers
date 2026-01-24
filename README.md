@@ -8,7 +8,57 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
-### 2026-01-23
+### 2026-01-24
+
+**[Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564)** NEW
+
+*Published: 2026-01-13*
+
+*Yuyang Hu, Shichun Liu, Yanwei Yue, Guibin Zhang, Boyang Liu, Fangyi Zhu, Jiahang Lin, Honglin Guo, Shihan Dou, Zhiheng Xi, Senjie Jin, Jiejun Tan, Yanbin Yin, Jiongnan Liu, Zeyu Zhang, Zhongxiang Sun, Yutao Zhu, Hao Sun, Boci Peng, Zhenrong Cheng, Xuanbo Fan, Jiaxin Guo, Xinlei Yu, Zhenhong Zhou, Zewen Hu, etc.*
+
+![](https://img.shields.io/badge/Citations-26-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-948-blue)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) ![](https://img.shields.io/badge/Mendeley%20Readers-33-red)
+
+---
+
+**[SAMTok: Representing Any Mask with Two Words](https://huggingface.co/papers/2601.16093)** NEW
+
+*Published: 2026-01-22*
+
+*Yikang Zhou, Tao Zhang, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, Hao Fei, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, Xiangtai Li*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,501-blue)](https://github.com/bytedance/Sa2VA/tree/main/projects/samtok)
+
+---
+
+**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)** NEW
+
+*Published: 2026-01-22*
+
+*Hangrui Hu, Xinfa Zhu, Ting He, Dake Guo, Bin Zhang, Xiong Wang, Zhifang Guo, Ziyue Jiang, Hongkun Hao, Zishan Guo, Xinyu Zhang, Pei Zhang, Baosong Yang, Jin Xu, Jingren Zhou, Junyang Lin*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,391-blue)](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
+**[Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://huggingface.co/papers/2601.11868)** NEW
+
+*Published: 2026-01-17*
+
+*Mike A. Merrill, Alexander G. Shaw, Nicholas Carlini, Boxuan Li, Harsh Raj, Ivan Bercovich, Lin Shi, Jeong Yeon Shin, Thomas Walshe, E. Kelly Buchanan, Junhong Shen, Guanghao Ye, Haowei Lin, Jason Poulos, Maoyu Wang, Marianna Nezhurina, Jenia Jitsev, Di Lu, Orfeas Menis Mastromichalakis, Zhiwei Xu, Zizhao Chen, Yue Liu, Robert Zhang, Leon Liangyu Chen, Anurag Kashyap, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,404-blue)](https://github.com/laude-institute/terminal-bench)
+
+---
+
+**[X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model](https://arxiv.org/abs/2510.10274)** NEW
+
+*Published: 2025-10-11*
+
+*Jinliang Zheng, Jianxiong Li, Zhihao Wang, Dongxiu Liu, Xirui Kang, Yuchun Feng, Yinan Zheng, Jiayin Zou, Yilun Chen, Jia Zeng, Ya-Qin Zhang, Jiangmiao Pang, Jingjing Liu, Tai Wang, Xianyuan Zhan*
+
+![](https://img.shields.io/badge/Citations-15-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-459-blue)](https://github.com/2toinf/X-VLA) ![](https://img.shields.io/badge/Mendeley%20Readers-17-red)
+
+---
 
 **[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)** NEW
 
@@ -207,56 +257,6 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 *Noah Ziems, Dilara Soylu, Lakshya A Agrawal, Isaac Miller, Liheng Lai, Chen Qian, Kaiqiang Song, Meng Jiang, Dan Klein, Matei Zaharia, Karel D'Oosterlinck, Christopher Potts, Omar Khattab*
 
 ![](https://img.shields.io/badge/Citations-1-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-31,676-blue)](https://github.com/stanfordnlp/dspy) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
-
----
-
-**[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://huggingface.co/papers/2601.07372)** NEW
-
-*Published: 2026-01-12*
-
-*Xin Cheng, Wangding Zeng, Damai Dai, Qinyu Chen, Bingxuan Wang, Zhenda Xie, Kezhao Huang, Xingkai Yu, Zhewen Hao, Yukun Li, Han Zhang, Huishuai Zhang, Dongyan Zhao, Wenfeng Liang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-2,986-blue)](https://github.com/deepseek-ai/Engram) ![](https://img.shields.io/badge/Mendeley%20Readers-29-red)
-
----
-
-**[Single-stream Policy Optimization](https://huggingface.co/papers/2509.13232)** NEW
-
-*Published: 2025-09-23*
-
-*Zhongwen Xu, Zihan Ding*
-
-![](https://img.shields.io/badge/Citations-5-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-18,556-blue)](https://github.com/volcengine/verl) ![](https://img.shields.io/badge/Mendeley%20Readers-9-red)
-
----
-
-**[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://huggingface.co/papers/2511.11793)** NEW
-
-*Published: 2025-11-18*
-
-*MiroMind Team, Song Bai, Lidong Bing, Carson Chen, Guanzheng Chen, Yuntao Chen, Zhe Chen, Ziyi Chen, Jifeng Dai, Xuan Dong, Wenhan Dou, Yue Deng, Yunjie Fu, Junqi Ge, Chenxia Han, Tammy Huang, Zhenhang Huang, Jerry Jiao, Shilei Jiang, Tianyu Jiao, Xiaoqi Jian, Lei Lei, Ruilin Li, Ryan Luo, Tiantong Li, etc.*
-
-![](https://img.shields.io/badge/Citations-4-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-5,458-blue)](https://github.com/MiroMindAI/MiroThinker) ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
-
----
-
-**[HunyuanVideo 1.5 Technical Report](https://huggingface.co/papers/2511.18870)** NEW
-
-*Published: 2025-11-25*
-
-*Bing Wu, Chang Zou, Changlin Li, Duojun Huang, Fang Yang, Hao Tan, Jack Peng, Jianbing Wu, Jiangfeng Xiong, Jie Jiang, Linus, Patrol, Peizhen Zhang, Peng Chen, Penghao Zhao, Qi Tian, Songtao Liu, Weijie Kong, Weiyan Wang, Xiao He, Xin Li, Xinchi Deng, Xuefei Zhe, Yang Li, Yanxin Long, etc.*
-
-![](https://img.shields.io/badge/Citations-4-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-3,594-blue)](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
-
----
-
-**[GigaBrain-0: A World Model-Powered Vision-Language-Action Model](https://huggingface.co/papers/2510.19430)** NEW
-
-*Published: 2025-12-04*
-
-*GigaBrain Team, Angen Ye, Boyuan Wang, Chaojun Ni, Guan Huang, Guosheng Zhao, Haoyun Li, Jie Li, Jiagang Zhu, Lv Feng, Peng Li, Qiuping Deng, Runqi Ouyang, Wenkang Qin, Xinze Chen, Xiaofeng Wang, Yang Wang, Yifan Li, Yilong Li, Yiran Ding, Yuan Xu, Yun Ye, Yukun Zhou, Zhehao Dong, Zhenan Wang, etc.*
-
-![](https://img.shields.io/badge/Citations-5-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-1,812-blue)](https://github.com/open-gigaai/giga-brain-0) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
 
 ---
 
