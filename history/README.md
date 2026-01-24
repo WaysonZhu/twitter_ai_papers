@@ -10,6 +10,26 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ### 2026-01-24
 
+**[ShapeR: Robust Conditional 3D Shape Generation from Casual Captures](https://huggingface.co/papers/2601.11514)** NEW
+
+*Published: 2026-01-16*
+
+*Yawar Siddiqui, Duncan Frost, Samir Aroudj, Armen Avetisyan, Henry Howard-Jenkins, Daniel DeTone, Pierre Moulon, Qirui Wu, Zhengqin Li, Julian Straub, Richard Newcombe, Jakob Engel*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-412-blue)](https://github.com/facebookresearch/ShapeR) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+
+---
+
+**[End-to-End Test-Time Training for Long Context](https://huggingface.co/papers/2512.23675)** NEW
+
+*Published: 2025-12-31*
+
+*Arnuv Tandon, Karan Dalal, Xinhao Li, Daniel Koceja, Marcel Rød, Sam Buchanan, Xiaolong Wang, Jure Leskovec, Sanmi Koyejo, Tatsunori Hashimoto, Carlos Guestrin, Jed McCaleb, Yejin Choi, Yu Sun*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-443-blue)](https://github.com/test-time-training/e2e) ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)
+
+---
+
 **[Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://huggingface.co/papers/2601.11868)** NEW
 
 *Published: 2026-01-17*
