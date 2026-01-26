@@ -10,7 +10,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ### 2026-01-26
 
-**[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206)** 🆕
+**[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206)**  🔥
 
 *Published: 2026-01-22*
 
@@ -20,7 +20,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](https://arxiv.org/abs/2512.07783)** 🆕
+**[On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](https://arxiv.org/abs/2512.07783)**  🔥
 
 *Published: 2025-12-08*
 
@@ -30,7 +30,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[Large Video Planner Enables Generalizable Robot Control](https://arxiv.org/abs/2512.15840)** 🆕
+**[Large Video Planner Enables Generalizable Robot Control](https://arxiv.org/abs/2512.15840)**  🔥
 
 *Published: 2025-12-17*
 
@@ -40,7 +40,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[Generating readily synthesizable small molecule fluorophore scaffolds with reinforcement learning](https://arxiv.org/abs/2601.07145)** 🆕
+**[Generating readily synthesizable small molecule fluorophore scaffolds with reinforcement learning](https://arxiv.org/abs/2601.07145)**  🔥
 
 *Published: 2026-01-12*
 
@@ -50,7 +50,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning](https://arxiv.org/abs/2601.16163)** 🆕
+**[Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning](https://arxiv.org/abs/2601.16163)**  🔥
 
 *Published: 2026-01-22*
 
@@ -60,7 +60,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[Next-Embedding Prediction Makes Strong Vision Learners](https://arxiv.org/abs/2512.16922)** 🆕
+**[Next-Embedding Prediction Makes Strong Vision Learners](https://arxiv.org/abs/2512.16922)**  🔥
 
 *Published: 2025-12-23*
 
@@ -70,7 +70,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[In Pursuit of Pixel Supervision for Visual Pre-training](https://arxiv.org/abs/2512.15715)** 🆕
+**[In Pursuit of Pixel Supervision for Visual Pre-training](https://arxiv.org/abs/2512.15715)**  🔥
 
 *Published: 2025-12-17*
 
