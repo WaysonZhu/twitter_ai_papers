@@ -10,6 +10,16 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ### 2026-01-26
 
+**[PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation](https://arxiv.org/abs/2601.03782)**  🔥
+
+*Published: 2026-01-07*
+
+*Wenlong Huang, Yu-Wei Chao, Arsalan Mousavian, Ming-Yu Liu, Dieter Fox, Kaichun Mo, Li Fei-Fei*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-10-red)
+
+---
+
 **[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206)**  🔥
 
 *Published: 2026-01-22*
@@ -20,23 +30,13 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](https://arxiv.org/abs/2512.07783)**  🔥
+**[UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](https://arxiv.org/abs/2601.01222)**  🔥
 
-*Published: 2025-12-08*
+*Published: 2026-01-03*
 
-*Charlie Zhang, Graham Neubig, Xiang Yue*
+*Mengfei Li, Peng Li, Zheng Zhang, Jiahao Lu, Chengfeng Zhao, Wei Xue, Qifeng Liu, Sida Peng, Wenxiao Zhang, Wenhan Luo, Yuan Liu, Yike Guo*
 
-![](https://img.shields.io/badge/Citations-10-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-129-blue)](https://github.com/Interplay-LM-Reasoning/Interplay-LM-Reasoning) ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)
-
----
-
-**[Large Video Planner Enables Generalizable Robot Control](https://arxiv.org/abs/2512.15840)**  🔥
-
-*Published: 2025-12-17*
-
-*Boyuan Chen, Tianyuan Zhang, Haoran Geng, Kiwhan Song, Caiyi Zhang, Peihao Li, William T. Freeman, Jitendra Malik, Pieter Abbeel, Russ Tedrake, Vincent Sitzmann, Yilun Du*
-
-![](https://img.shields.io/badge/Citations-1-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-169-blue)](https://github.com/buoyancy99/large-video-planner) ![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
+![](https://img.shields.io/badge/Citations-1-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-109-blue)](https://github.com/murphylmf/UniSH)
 
 ---
 
@@ -56,27 +56,17 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Moo Jin Kim, Yihuai Gao, Tsung-Yi Lin, Yen-Chen Lin, Yunhao Ge, Grace Lam, Percy Liang, Shuran Song, Ming-Yu Liu, Chelsea Finn, Jinwei Gu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-230-blue)](https://github.com/nvlabs/cosmos-policy) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-231-blue)](https://github.com/nvlabs/cosmos-policy) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
 ---
 
-**[Next-Embedding Prediction Makes Strong Vision Learners](https://arxiv.org/abs/2512.16922)**  🔥
+**[Dr. Zero: Self-Evolving Search Agents without Training Data](https://arxiv.org/abs/2601.07055)**  🔥
 
-*Published: 2025-12-23*
+*Published: 2026-01-11*
 
-*Sihan Xu, Ziqiao Ma, Wenhao Chai, Xuweiyi Chen, Weiyang Jin, Joyce Chai, Saining Xie, Stella X. Yu*
+*Zhenrui Yue, Kartikeya Upasani, Xianjun Yang, Suyu Ge, Shaoliang Nie, Yuning Mao, Zhe Liu, Dong Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-300-blue)](https://github.com/SihanXU/nepa) ![](https://img.shields.io/badge/Mendeley%20Readers-20-red)
-
----
-
-**[In Pursuit of Pixel Supervision for Visual Pre-training](https://arxiv.org/abs/2512.15715)**  🔥
-
-*Published: 2025-12-17*
-
-*Lihe Yang, Shang-Wen Li, Yang Li, Xinjie Lei, Dong Wang, Abdelrahman Mohamed, Hengshuang Zhao, Hu Xu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-340-blue)](https://github.com/facebookresearch/pixio)
+[![](https://img.shields.io/badge/GitHub%20Stars-260-blue)](https://github.com/facebookresearch/drzero)
 
 ---
 
