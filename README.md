@@ -10,13 +10,23 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ### 2026-01-26
 
-**[On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](https://arxiv.org/abs/2512.07783)**  🔥
+**[Action100M: A Large-scale Video Action Dataset](https://arxiv.org/abs/2601.10592)**  🔥
 
-*Published: 2025-12-08*
+*Published: 2026-01-15*
 
-*Charlie Zhang, Graham Neubig, Xiang Yue*
+*Delong Chen, Tejaswi Kasarla, Yejin Bang, Mustafa Shukor, Willy Chung, Jade Yu, Allen Bolourchi, Theo Moutakanni, Pascale Fung*
 
-![](https://img.shields.io/badge/Citations-10-9cf) ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-352-blue)](https://github.com/facebookresearch/Action100M) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+
+---
+
+**[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206)**  🔥
+
+*Published: 2026-01-22*
+
+*Daixuan Cheng, Shaohan Huang, Yuxian Gu, Huatong Song, Guoxin Chen, Li Dong, Wayne Xin Zhao, Ji-Rong Wen, Furu Wei*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-94-blue)](https://github.com/llm-in-sandbox/llm-in-sandbox) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
 ---
 
