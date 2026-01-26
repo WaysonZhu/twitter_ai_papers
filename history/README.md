@@ -10,6 +10,26 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ### 2026-01-26
 
+**[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206)** NEW
+
+*Published: 2026-01-22*
+
+*Daixuan Cheng, Shaohan Huang, Yuxian Gu, Huatong Song, Guoxin Chen, Li Dong, Wayne Xin Zhao, Ji-Rong Wen, Furu Wei*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-94-blue)](https://github.com/llm-in-sandbox/llm-in-sandbox) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+**[On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](https://arxiv.org/abs/2512.07783)** NEW
+
+*Published: 2025-12-08*
+
+*Charlie Zhang, Graham Neubig, Xiang Yue*
+
+![](https://img.shields.io/badge/Citations-10-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-129-blue)](https://github.com/Interplay-LM-Reasoning/Interplay-LM-Reasoning) ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)
+
+---
+
 **[Large Video Planner Enables Generalizable Robot Control](https://arxiv.org/abs/2512.15840)** NEW
 
 *Published: 2025-12-17*
@@ -36,27 +56,27 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Moo Jin Kim, Yihuai Gao, Tsung-Yi Lin, Yen-Chen Lin, Yunhao Ge, Grace Lam, Percy Liang, Shuran Song, Ming-Yu Liu, Chelsea Finn, Jinwei Gu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-229-blue)](https://github.com/nvlabs/cosmos-policy) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-230-blue)](https://github.com/nvlabs/cosmos-policy) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
 ---
 
-**[Action100M: A Large-scale Video Action Dataset](https://arxiv.org/abs/2601.10592)** NEW
+**[Next-Embedding Prediction Makes Strong Vision Learners](https://arxiv.org/abs/2512.16922)** NEW
 
-*Published: 2026-01-15*
+*Published: 2025-12-23*
 
-*Delong Chen, Tejaswi Kasarla, Yejin Bang, Mustafa Shukor, Willy Chung, Jade Yu, Allen Bolourchi, Theo Moutakanni, Pascale Fung*
+*Sihan Xu, Ziqiao Ma, Wenhao Chai, Xuweiyi Chen, Weiyang Jin, Joyce Chai, Saining Xie, Stella X. Yu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-351-blue)](https://github.com/facebookresearch/Action100M) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-300-blue)](https://github.com/SihanXU/nepa) ![](https://img.shields.io/badge/Mendeley%20Readers-20-red)
 
 ---
 
-**[Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning](https://arxiv.org/abs/2601.11109)** NEW
+**[In Pursuit of Pixel Supervision for Visual Pre-training](https://arxiv.org/abs/2512.15715)** NEW
 
-*Published: 2026-01-22*
+*Published: 2025-12-17*
 
-*Shaofeng Yin, Jiaxin Ge, Zora Zhiruo Wang, Xiuyu Li, Michael J. Black, Trevor Darrell, Angjoo Kanazawa, Haiwen Feng*
+*Lihe Yang, Shang-Wen Li, Yang Li, Xinjie Lei, Dong Wang, Abdelrahman Mohamed, Hengshuang Zhao, Hu Xu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-515-blue)](https://github.com/Fugtemypt123/VIGA-release)
+[![](https://img.shields.io/badge/GitHub%20Stars-340-blue)](https://github.com/facebookresearch/pixio)
 
 ---
 
