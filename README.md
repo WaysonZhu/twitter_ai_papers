@@ -1,264 +1,163 @@
-<div align="center">
+# 📑 LLM Paper Daily Pulse | 2026-01-26
 
-<img width="200%" src="./figures/hr.gif" />
-
-# AI Spotlight: Trending Research Papers
-Welcome to AI Spotlight — a curated list of the latest and trending AI research papers.
-
-</div>
-
-
-### 2026-01-24
-
-**[SAMTok: Representing Any Mask with Two Words](https://huggingface.co/papers/2601.16093)** NEW
-
-*Published: 2026-01-22*
-
-*Yikang Zhou, Tao Zhang, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, Hao Fei, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, Xiangtai Li*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,501-blue)](https://github.com/bytedance/Sa2VA/tree/main/projects/samtok)
+> **📊 今日概览**：
+> * **收录论文**：19 篇（按领域精选）
+> * **拓展阅读**：50 篇（深度相关拓展）
+> * **今日焦点**：LLM 领域评分最高。
 
 ---
+## 🏆 每日推荐 (Top Picks)
+*各领域评分 No.1 的必读精选*
 
-**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)** NEW
-
-*Published: 2026-01-22*
-
-*Hangrui Hu, Xinfa Zhu, Ting He, Dake Guo, Bin Zhang, Xiong Wang, Zhifang Guo, Ziyue Jiang, Hongkun Hao, Zishan Guo, Xinyu Zhang, Pei Zhang, Baosong Yang, Jin Xu, Jingren Zhou, Junyang Lin*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,391-blue)](https://github.com/QwenLM/Qwen3-TTS)
-
----
-
-**[Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://huggingface.co/papers/2601.11868)** NEW
-
-*Published: 2026-01-17*
-
-*Mike A. Merrill, Alexander G. Shaw, Nicholas Carlini, Boxuan Li, Harsh Raj, Ivan Bercovich, Lin Shi, Jeong Yeon Shin, Thomas Walshe, E. Kelly Buchanan, Junhong Shen, Guanghao Ye, Haowei Lin, Jason Poulos, Maoyu Wang, Marianna Nezhurina, Jenia Jitsev, Di Lu, Orfeas Menis Mastromichalakis, Zhiwei Xu, Zizhao Chen, Yue Liu, Robert Zhang, Leon Liangyu Chen, Anurag Kashyap, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,404-blue)](https://github.com/laude-institute/terminal-bench)
+| 领域 | 论文标题 | 推荐指数 | 核心亮点 |
+| :--- | :--- | :--- | :--- |
+| **LLM** | [**LLM-in-Sandbox Elicits General Agentic Intelligence**](https://arxiv.org/abs/2601.16206) | `3.8` 🌟 | Gives LLMs code... |
+| **Multimodal** | [**Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning**](https://arxiv.org/abs/2601.11109) | `3.5` 🌟 | Vision-as-Inver... |
+| **Agents** | [**Memory in the Age of AI Agents**](https://arxiv.org/abs/2512.13564) | `4.1` 🌟 | Comprehensive s... |
+| **ML Theory** | [**Trust-Region Adaptive Policy Optimization**](https://arxiv.org/abs/2512.17636) | `0.0` 🌟 | Mixing SFT and ... |
+| **Systems** | [**Compressed code: the hidden effects of quantization and distillation on programming tokens**](https://arxiv.org/abs/2601.02563) | `1.9` 🌟 | Effects of quan... |
 
 ---
+## 📚 专题论文 (Topic Papers)
 
-**[End-to-End Test-Time Training for Long Context](https://huggingface.co/papers/2512.23675)** NEW
+### 1. 大语言模型 (LLM)
 
-*Published: 2025-12-31*
+1. **[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206)**
+    * **Authors**: Daixuan Cheng, Shaohan Huang, Yuxian Gu,...
+    * **Date**: 2026-01-22
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-3.8-yellow?style=flat-square)
 
-*Arnuv Tandon, Karan Dalal, Xinhao Li, Daniel Koceja, Marcel Rød, Sam Buchanan, Xiaolong Wang, Jure Leskovec, Sanmi Koyejo, Tatsunori Hashimoto, Carlos Guestrin, Jed McCaleb, Yejin Choi, Yu Sun*
+2. **[The Rise of Large Language Models and the Direction and Impact of US Federal Research Funding](https://arxiv.org/abs/2601.15485)**
+    * **Authors**: Yifan Qian, Zhe Wen, Alexander C. Furnas...
+    * **Date**: 2026-01-21
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-3.3-yellow?style=flat-square)
 
-[![](https://img.shields.io/badge/GitHub%20Stars-443-blue)](https://github.com/test-time-training/e2e) ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)
+3. **[What Makes Low-Bit Quantization-Aware Training Work for Reasoning LLMs? A Systematic Study](https://arxiv.org/abs/2601.14888)**
+    * **Authors**: Keyu Lv, Manyi Zhang, Xiaobo Xia, Jingch...
+    * **Date**: 2026-01-21
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-3.3-yellow?style=flat-square)
 
----
+4. **[A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness](https://arxiv.org/abs/2512.12802)**
+    * **Authors**: Erik Hoel
+    * **Date**: 2026-01-19
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-3.1-yellow?style=flat-square)
 
-**[ShapeR: Robust Conditional 3D Shape Generation from Casual Captures](https://huggingface.co/papers/2601.11514)** NEW
+5. **[RLBR: Reinforcement Learning with Biasing Rewards for Contextual Speech Large Language Models](https://arxiv.org/abs/2601.13409)**
+    * **Authors**: Bo Ren, Ruchao Fan, Yelong Shen, Weizhu ...
+    * **Date**: 2026-01-19
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-3.1-yellow?style=flat-square)
 
-*Published: 2026-01-16*
+> 📝 **[点击阅读：本领域今日 5 篇论文总结文档 (Summary)](./summaries/LLM_Summary_20260126.md)**
 
-*Yawar Siddiqui, Duncan Frost, Samir Aroudj, Armen Avetisyan, Henry Howard-Jenkins, Daniel DeTone, Pierre Moulon, Qirui Wu, Zhengqin Li, Julian Straub, Richard Newcombe, Jakob Engel*
+### 2. 多模态与生成式AI (Multimodal)
 
-[![](https://img.shields.io/badge/GitHub%20Stars-412-blue)](https://github.com/facebookresearch/ShapeR) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+1. **[Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning](https://arxiv.org/abs/2601.11109)**
+    * **Authors**: Shaofeng Yin, Jiaxin Ge, Zora Zhiruo Wan...
+    * **Date**: 2026-01-22
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-3.5-yellow?style=flat-square)
 
----
+2. **[Simulating the Visual World with Artificial Intelligence: A Roadmap](https://arxiv.org/abs/2511.08585)**
+    * **Authors**: Jingtong Yue, Ziqi Huang, Zhaoxi Chen, X...
+    * **Date**: 2026-01-13
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-2.8-yellow?style=flat-square)
 
-**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)** NEW
+3. **[Video Generation Models in Robotics - Applications, Research Challenges, Future Directions](https://arxiv.org/abs/2601.07823)**
+    * **Authors**: Zhiting Mei, Tenny Yin, Ola Shorinwa, Ap...
+    * **Date**: 2026-01-12
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-2.1-yellow?style=flat-square)
 
-*Published: 2026-01-05*
+4. **[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675)**
+    * **Authors**: Tony Lee, Andrew Wagenmaker, Karl Pertsc...
+    * **Date**: 2026-01-08
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-1.6-yellow?style=flat-square)
 
-*Jiaqi Liu, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao*
+5. **[mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs](https://arxiv.org/abs/2512.15692)**
+    * **Authors**: Jonas Pai, Liam Achenbach, Victoriano Mo...
+    * **Date**: 2025-12-19
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-1.1-yellow?style=flat-square)
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,675-blue)](https://github.com/aiming-lab/SimpleMem)
+> 📝 **[点击阅读：本领域今日 5 篇论文总结文档 (Summary)](./summaries/Multimodal_Summary_20260126.md)**
 
----
+### 3. 智能体与复杂推理 (Agents)
 
-**[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)** NEW
+1. **[Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564)**
+    * **Authors**: Yuyang Hu, Shichun Liu, Yanwei Yue, Guib...
+    * **Date**: 2026-01-13
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-4.1-yellow?style=flat-square)
 
-*Published: 2025-12-11*
+2. **["Just in Time" World Modeling Supports Human Planning and Reasoning](https://arxiv.org/abs/2601.14514)**
+    * **Authors**: Tony Chen, Sam Cheyette, Kelsey Allen, J...
+    * **Date**: 2026-01-20
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-3.2-yellow?style=flat-square)
 
-*Lars Mescheder, Wei Dong, Shiwei Li, Xuyang Bai, Marcel Santos, Peiyun Hu, Bruno Lecouat, Mingmin Zhen, Amaël Delaunoy, Tian Fang, Yanghai Tsin, Stephan R. Richter, Vladlen Koltun*
+3. **[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://arxiv.org/abs/2601.09667)**
+    * **Authors**: Zhiyuan Hu, Yunhai Hu, Juncheng Liu, Shu...
+    * **Date**: 2026-01-15
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-3.0-yellow?style=flat-square)
 
-[![](https://img.shields.io/badge/GitHub%20Stars-7,050-blue)](https://github.com/apple/ml-sharp)
+4. **[Reasoning Models Generate Societies of Thought](https://arxiv.org/abs/2601.10825)**
+    * **Authors**: Junsol Kim, Shiyang Lai, Nino Scherrer, ...
+    * **Date**: 2026-01-15
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-2.9-yellow?style=flat-square)
 
----
+5. **[Rethinking the AI Scientist: Interactive Multi-Agent Workflows for Scientific Discovery](https://arxiv.org/abs/2601.12542)**
+    * **Authors**: Lukas Weidener, Marko Brkić, Mihailo Jov...
+    * **Date**: 2026-01-18
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-2.9-yellow?style=flat-square)
 
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)** NEW
+> 📝 **[点击阅读：本领域今日 5 篇论文总结文档 (Summary)](./summaries/Agents_Summary_20260126.md)**
 
-*Published: 2025-11-17*
+### 4. 机器学习与优化 (ML Theory)
 
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida*
+1. **[Trust-Region Adaptive Policy Optimization](https://arxiv.org/abs/2512.17636)**
+    * **Authors**: Mingyu Su, Jian Guan, Yuxian Gu, Minlie ...
+    * **Date**: 2025-12-19
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-0.0-yellow?style=flat-square)
 
-[![](https://img.shields.io/badge/GitHub%20Stars-15,729-blue)](https://github.com/openai/agents.md)
+> 📝 **[点击阅读：本领域今日 1 篇论文总结文档 (Summary)](./summaries/ML_Theory_Summary_20260126.md)**
 
----
+### 5. AI系统与高效计算 (Systems)
 
-**[Recursive Language Models](https://huggingface.co/papers/2512.24601)** NEW
+1. **[Compressed code: the hidden effects of quantization and distillation on programming tokens](https://arxiv.org/abs/2601.02563)**
+    * **Authors**: Viacheslav Siniaev, Iaroslav Chelombitko...
+    * **Date**: 2026-01-10
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-1.9-yellow?style=flat-square)
 
-*Published: 2025-12-31*
+2. **[More Than Bits: Multi-Envelope Double Binary Factorization for Extreme Quantization](https://arxiv.org/abs/2512.24545)**
+    * **Authors**: Yuma Ichikawa, Yoshihiko Fujisawa, Yudai...
+    * **Date**: 2025-12-31
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-0.5-yellow?style=flat-square)
 
-*Alex L. Zhang, Tim Kraska, Omar Khattab*
+3. **[A Mathematical Introduction to Geometric Quantization](https://arxiv.org/abs/2512.03171)**
+    * **Authors**: Kadri İlker Berktav, Burak Oğuz, Ömer Ön...
+    * **Date**: 2025-12-02
+    * ![Github](https://img.shields.io/badge/Github-0-black?style=flat-square&logo=github) ![Social](https://img.shields.io/badge/Social-Low-lightgrey?style=flat-square&logo=fire) ![Score](https://img.shields.io/badge/Score-0.0-yellow?style=flat-square)
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,520-blue)](https://github.com/alexzhang13/rlm/tree/main)
-
----
-
-**[InfiAgent: An Infinite-Horizon Framework for General-Purpose Autonomous Agents](https://huggingface.co/papers/2601.03204)** NEW
-
-*Published: 2026-01-06*
-
-*Chenglin Yu, Yuchen Wang, Songmiao Wang, Hongxia Yang, Ming Li*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-565-blue)](https://github.com/ChenglinPoly/infiAgent)
-
----
-
-**[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)** NEW
-
-*Published: 2025-12-03*
-
-*Zhiyu Li, Chenyang Xi, Chunyu Li, Ding Chen, Boyu Chen, Shichao Song, Simin Niu, Hanyu Wang, Jiawei Yang, Chen Tang, Qingchen Yu, Jihao Zhao, Yezhaohui Wang, Peng Liu, Zehao Lin, Pengyuan Wang, Jiahao Huo, Tianyi Chen, Kai Chen, Kehang Li, Zhen Tao, Huayi Lai, Hao Wu, Bo Tang, Zhengren Wang, etc.*
-
-![](https://img.shields.io/badge/Citations-30-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-4,260-blue)](https://github.com/MemTensor/MemOS) ![](https://img.shields.io/badge/Mendeley%20Readers-26-red)
-
----
-
-**[Continuous Audio Language Models](https://huggingface.co/papers/2509.06926)** NEW
-
-*Published: 2026-01-13*
-
-*Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez*
-
-![](https://img.shields.io/badge/Citations-2-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-2,050-blue)](https://github.com/kyutai-labs/pocket-tts) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
-
----
-
-**[FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable Reasoning](https://huggingface.co/papers/2510.22543)** NEW
-
-*Published: 2025-10-26*
-
-*Yuyang Ding, Chi Zhang, Juntao Li, Haibin Lin, Xin Liu, Min Zhang*
-
-![](https://img.shields.io/badge/Citations-1-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-18,556-blue)](https://github.com/volcengine/verl/tree/main/recipe/fapo)
-
----
-
-**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)** NEW
-
-*Published: 2026-01-15*
-
-*Dongchao Yang, Yuxin Xie, Yuguo Yin, Zheyu Wang, Xiaoyu Yi, Gongxi Zhu, Xiaolong Weng, Zihan Xiong, Yingzhe Ma, Dading Cong, Jingliang Liu, Zihang Huang, Jinghan Ru, Rongjie Huang, Haoran Wan, Peixu Wang, Kuoxi Yu, Helin Wang, Liming Liang, Xianwei Zhuang, Yuanyuan Wang, Haohan Guo, Junjie Cao, Zeqian Ju, Songxiang Liu, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,099-blue)](https://github.com/HeartMuLa/heartlib) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)** NEW
-
-*Published: 2026-01-09*
-
-*Chuanrui Hu, Xingze Gao, Zuyi Zhou, Dannong Xu, Yi Bai, Xintong Li, Hui Zhang, Tong Li, Chong Zhang, Lidong Bing, Yafeng Deng*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,873-blue)](https://github.com/EverMind-AI/EverMemOS) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+> 📝 **[点击阅读：本领域今日 3 篇论文总结文档 (Summary)](./summaries/Systems_Summary_20260126.md)**
 
 ---
+## 🎯 猜你喜欢 (Deep Dive Extensions)
+*基于每个领域今日收录的论文，算法匹配了 **10 篇** 高度相关拓展论文。*
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)** NEW
+### 大语言模型 (LLM)
+> **[📂 点击查看：LLM 领域深度拓展报告 (含10篇相关论文)](./extensions/LLM_Extension_20260126.md)**
+> * **方向**：涵盖 LLM 的基础架构、预训练微调、RAG 检索增强及语言生成技术。
 
-*Published: 2025-11-27*
+### 多模态与生成式AI (Multimodal)
+> **[📂 点击查看：Multimodal 领域深度拓展报告 (含10篇相关论文)](./extensions/Multimodal_Extension_20260126.md)**
+> * **方向**：聚焦于图像、视频、音频生成及视觉-语言多模态模型的最新进展。
 
-*Dongyang Liu, Peng Gao, David Liu, Ruoyi Du, Zhen Li, Qilong Wu, Xin Jin, Sihan Cao, Shifeng Zhang, Hongsheng Li, Steven Hoi*
+### 智能体与复杂推理 (Agents)
+> **[📂 点击查看：Agents 领域深度拓展报告 (含10篇相关论文)](./extensions/Agents_Extension_20260126.md)**
+> * **方向**：研究自主智能体架构、复杂逻辑推理、规划及具身智能。
 
-[![](https://img.shields.io/badge/GitHub%20Stars-9,190-blue)](https://github.com/Tongyi-MAI/Z-Image/tree/main) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+### 机器学习与优化 (ML Theory)
+> **[📂 点击查看：ML Theory 领域深度拓展报告 (含10篇相关论文)](./extensions/ML_Theory_Extension_20260126.md)**
+> * **方向**：包含深度学习理论、强化学习算法及核心数学优化方法。
 
----
-
-**[BitNet Distillation](https://huggingface.co/papers/2510.13998)** NEW
-
-*Published: 2025-10-15*
-
-*Xun Wu, Shaohan Huang, Wenhui Wang, Ting Song, Li Dong, Yan Xia, Furu Wei*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-25,784-blue)](https://github.com/microsoft/BitNet) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
-
----
-
-**[Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://huggingface.co/papers/2601.04720)** NEW
-
-*Published: 2026-01-08*
-
-*Mingxin Li, Yanzhao Zhang, Dingkun Long, Keqin Chen, Sibo Song, Shuai Bai, Zhibo Yang, Pengjun Xie, An Yang, Dayiheng Liu, Jingren Zhou, Junyang Lin*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-834-blue)](https://github.com/QwenLM/Qwen3-VL-Embedding) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+### AI系统与高效计算 (Systems)
+> **[📂 点击查看：Systems 领域深度拓展报告 (含10篇相关论文)](./extensions/Systems_Extension_20260126.md)**
+> * **方向**：关注模型量化、推理加速、硬件适配及大规模训练基础设施。
 
 ---
-
-**[Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models](https://huggingface.co/papers/2512.24618)** NEW
-
-*Published: 2026-01-05*
-
-*Junru Lu, Jiarui Qin, Lingfeng Qiao, Yinghui Li, Xinyi Dai, Bo Ke, Jianfeng He, Ruizhi Qiao, Di Yin, Xing Sun, Yunsheng Wu, Yinsong Liu, Shuangyin Liu, Mingkong Tang, Haodong Lin, Jiayi Kuang, Fanxu Meng, Xiaojuan Tang, Yunjia Xi, Junjie Huang, Haotong Yang, Zhenyi Shen, Yangning Li, Qianwen Zhang, Yifei Yu, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-527-blue)](https://github.com/TencentCloudADP/youtu-tip) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
-
----
-
-**[DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI](https://huggingface.co/papers/2512.16676)** NEW
-
-*Published: 2025-12-18*
-
-*Hao Liang, Xiaochen Ma, Zhou Liu, Zhen Hao Wong, Zhengyang Zhao, Zimo Meng, Runming He, Chengyu Shen, Qifeng Cai, Zhaoyang Han, Meiyi Qiang, Yalin Feng, Tianyi Bai, Zewei Pan, Ziyi Guo, Yizhen Jiang, Jingwen Deng, Qijie You, Peichao Lai, Tianyu Guo, Chi Hsu Tsai, Hengyi Feng, Rui Hu, Wenkai Yu, Junbo Niu, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-2,540-blue)](https://github.com/OpenDCAI/DataFlow) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
-
----
-
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)** NEW
-
-*Published: 2025-08-05*
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He, Zilong Wang, Siyun Zhao, Dongsheng Li, Luna K. Qiu, Yuqing Yang*
-
-![](https://img.shields.io/badge/Citations-18-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-10,853-blue)](https://github.com/microsoft/agent-lightning) ![](https://img.shields.io/badge/Mendeley%20Readers-23-red)
-
----
-
-**[dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model](https://huggingface.co/papers/2512.02498)** NEW
-
-*Published: 2025-12-17*
-
-*Yumeng Li, Guang Yang, Hao Liu, Bowen Wang, Colin Zhang*
-
-![](https://img.shields.io/badge/Citations-4-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-6,989-blue)](https://github.com/rednote-hilab/dots.ocr) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
-
----
-
-**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)** NEW
-
-*Published: 2026-01-06*
-
-*Yoav HaCohen, Benny Brazowski, Nisan Chiprut, Yaki Bitterman, Andrew Kvochko, Avishai Berkowitz, Daniel Shalem, Daphna Lifschitz, Dudu Moshe, Eitan Porat, Eitan Richardson, Guy Shiran, Itay Chachy, Jonathan Chetboun, Michael Finkelson, Michael Kupchick, Nir Zabari, Nitzan Guetta, Noa Kotler, Ofir Bibi, Ori Gordon, Poriya Panet, Roi Benita, Shahar Armon, Victor Kulikov, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-2,893-blue)](https://github.com/Lightricks/LTX-2) ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)
-
----
-
-**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](https://huggingface.co/papers/2508.16279)** NEW
-
-*Published: 2025-08-22*
-
-*Dawei Gao, Zitao Li, Yuexiang Xie, Weirui Kuang, Liuyi Yao, Bingchen Qian, Zhijian Ma, Yue Cui, Haohao Luo, Shen Li, Lu Yi, Yi Yu, Shiqi He, Zhiling Luo, Wenmeng Zhou, Zhicheng Zhang, Xuguang He, Ziqian Chen, Weikai Liao, Farruh Isakulovich Kushnazarov, Yaliang Li, Bolin Ding, Jingren Zhou*
-
-![](https://img.shields.io/badge/Citations-2-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-15,737-blue)](https://github.com/agentscope-ai/agentscope) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
-
----
-
-**[Multi-module GRPO: Composing Policy Gradients and Prompt Optimization for Language Model Programs](https://huggingface.co/papers/2508.04660)** NEW
-
-*Published: 2025-08-06*
-
-*Noah Ziems, Dilara Soylu, Lakshya A Agrawal, Isaac Miller, Liheng Lai, Chen Qian, Kaiqiang Song, Meng Jiang, Dan Klein, Matei Zaharia, Karel D'Oosterlinck, Christopher Potts, Omar Khattab*
-
-![](https://img.shields.io/badge/Citations-1-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-31,676-blue)](https://github.com/stanfordnlp/dspy) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
-
----
-
-
-[Complete history news](./history/README.md)
+*Generated by Auto-Research-Agent on 2026-01-26 15:41:05*
