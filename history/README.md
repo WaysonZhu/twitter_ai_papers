@@ -30,6 +30,16 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
+**[Controlled LLM Training on Spectral Sphere](https://arxiv.org/abs/2601.08393)**  🔥
+
+*Published: 2026-01-23*
+
+*Tian Xie, Haoming Luo, Haoyu Tang, Yiwen Hu, Jason Klein Liu, Qingnan Ren, Yang Wang, Wayne Xin Zhao, Rui Yan, Bing Su, Chong Luo, Baining Guo*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-90-blue)](https://github.com/Unakar/Spectral-Sphere-Optimizer)
+
+---
+
 
 ### 2026-01-27
 
