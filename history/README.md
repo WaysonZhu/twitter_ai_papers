@@ -30,16 +30,6 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[RECOR: Reasoning-focused Multi-turn Conversational Retrieval Benchmark](https://arxiv.org/abs/2601.05461)**  🔥
-
-*Published: 2026-01-09*
-
-*Mohammed Ali, Abdelrahman Abdallah, Amit Agarwal, Hitesh Laxmichand Patel, Adam Jatowt*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-5-blue)](https://github.com/RECOR-Benchmark/RECOR)
-
----
-
 **[MiRAGE: A Multiagent Framework for Generating Multimodal Multihop Question-Answer Dataset for RAG Evaluation](https://arxiv.org/abs/2601.15487)**  🔥
 
 *Published: 2026-01-21*
@@ -70,6 +60,16 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
+**[RECOR: Reasoning-focused Multi-turn Conversational Retrieval Benchmark](https://arxiv.org/abs/2601.05461)**  🔥
+
+*Published: 2026-01-09*
+
+*Mohammed Ali, Abdelrahman Abdallah, Amit Agarwal, Hitesh Laxmichand Patel, Adam Jatowt*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-5-blue)](https://github.com/RECOR-Benchmark/RECOR)
+
+---
+
 **[GR-Dexter Technical Report](https://arxiv.org/abs/2512.24210)**  🔥
 
 *Published: 2026-01-09*
@@ -80,33 +80,33 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)**  🔥
+**[Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/abs/2601.14192)**  🔥
 
-*Published: 2026-01-05*
+*Published: 2026-01-20*
 
-*Zhenda Xie, Yixuan Wei, Huanqi Cao, Chenggang Zhao, Chengqi Deng, Jiashi Li, Damai Dai, Huazuo Gao, Jiang Chang, Kuai Yu, Liang Zhao, Shangyan Zhou, Zhean Xu, Zhengyan Zhang, Wangding Zeng, Shengding Hu, Yuqing Wang, Jingyang Yuan, Lean Wang, Wenfeng Liang*
+*Xiaofang Yang, Lijun Li, Heng Zhou, Tong Zhu, Xiaoye Qu, Yuchen Fan, Qianshan Wei, Rui Ye, Li Kang, Yiran Qin, Zhiqiang Kou, Daizong Liu, Qi Li, Ning Ding, Siheng Chen, Jing Shao*
 
-![](https://img.shields.io/badge/Citations-3-9cf) ![](https://img.shields.io/badge/Mendeley%20Readers-78-red)
-
----
-
-**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553)**  🔥
-
-*Published: 2026-01-05*
-
-*Jiaqi Liu, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao*
-
-![](https://img.shields.io/badge/Citations-1-9cf) ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
 ---
 
-**[Everything is Context: Agentic File System Abstraction for Context Engineering](https://arxiv.org/abs/2512.05470)**  🔥
+**[Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538)**  🔥
 
-*Published: 2025-12-05*
+*Published: 2026-01-18*
 
-*Xiwei Xu, Robert Mao, Quan Bai, Xuewu Gu, Yechao Li, Liming Zhu*
+*Tianxin Wei, Ting-Wei Li, Zhining Liu, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, Dongqi Fu, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, etc.*
 
-![](https://img.shields.io/badge/Citations-2-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+
+---
+
+**[Reasoning Models Generate Societies of Thought](https://arxiv.org/abs/2601.10825)**  🔥
+
+*Published: 2026-01-15*
+
+*Junsol Kim, Shiyang Lai, Nino Scherrer, Blaise Agüera y Arcas, James Evans*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
 
 ---
 
