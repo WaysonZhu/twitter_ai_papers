@@ -80,13 +80,33 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538)**  🔥
+**[mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)**  🔥
 
-*Published: 2026-01-18*
+*Published: 2026-01-05*
 
-*Tianxin Wei, Ting-Wei Li, Zhining Liu, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, Dongqi Fu, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, etc.*
+*Zhenda Xie, Yixuan Wei, Huanqi Cao, Chenggang Zhao, Chengqi Deng, Jiashi Li, Damai Dai, Huazuo Gao, Jiang Chang, Kuai Yu, Liang Zhao, Shangyan Zhou, Zhean Xu, Zhengyan Zhang, Wangding Zeng, Shengding Hu, Yuqing Wang, Jingyang Yuan, Lean Wang, Wenfeng Liang*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+![](https://img.shields.io/badge/Citations-3-9cf) ![](https://img.shields.io/badge/Mendeley%20Readers-78-red)
+
+---
+
+**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553)**  🔥
+
+*Published: 2026-01-05*
+
+*Jiaqi Liu, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao*
+
+![](https://img.shields.io/badge/Citations-1-9cf) ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
+
+---
+
+**[Everything is Context: Agentic File System Abstraction for Context Engineering](https://arxiv.org/abs/2512.05470)**  🔥
+
+*Published: 2025-12-05*
+
+*Xiwei Xu, Robert Mao, Quan Bai, Xuewu Gu, Yechao Li, Liming Zhu*
+
+![](https://img.shields.io/badge/Citations-2-9cf)
 
 ---
 
