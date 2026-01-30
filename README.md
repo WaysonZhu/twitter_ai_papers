@@ -8,105 +8,105 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
-### 2026-01-29
+### 2026-01-30
 
-**[Learning Latent Action World Models In The Wild](https://arxiv.org/abs/2601.05230)**  🔥
+**[UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](https://arxiv.org/abs/2601.01222)**  🔥
 
-*Published: 2026-01-20*
+*Published: 2026-01-03*
 
-*Quentin Garrido, Tushar Nagarajan, Basile Terver, Nicolas Ballas, Yann LeCun, Michael Rabbat*
+*Mengfei Li, Peng Li, Zheng Zhang, Jiahao Lu, Chengfeng Zhao, Wei Xue, Qifeng Liu, Sida Peng, Wenxiao Zhang, Wenhan Luo, Yuan Liu, Yike Guo*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-13-red)
-
----
-
-**[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://arxiv.org/abs/2601.09667)**  🔥
-
-*Published: 2026-01-15*
-
-*Zhiyuan Hu, Yunhai Hu, Juncheng Liu, Shuyue Stella Li, Yucheng Wang, Zhen Xu, See-Kiong Ng, Anh Tuan Luu, Xinxing Xu, Bryan Hooi, Cynthia Breazeal, Hae Won Park*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+![](https://img.shields.io/badge/Citations-1-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-113-blue)](https://github.com/murphylmf/UniSH) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
-**[Apollo: Unified Multi-Task Audio-Video Joint Generation](https://arxiv.org/abs/2601.04151)**  🔥
+**[Evaluating Parameter Efficient Methods for RLVR](https://arxiv.org/abs/2512.23165)**  🔥
 
-*Published: 2026-01-13*
+*Published: 2025-12-30*
 
-*Jun Wang, Chunyu Qiang, Yuxin Guo, Yiran Wang, Xijuan Zeng, Feng Deng*
+*Qingyu Yin, Yulun Wu, Zhennan Shen, Sunbowen Li, Zhilin Wang, Yanshu Li, Chak Tou Leong, Jiale Kang, Jinjin Gu*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
-
----
-
-**[Reverse Flow Matching: A Unified Framework for Online Reinforcement Learning with Diffusion and Flow Policies](https://arxiv.org/abs/2601.08136)**  🔥
-
-*Published: 2026-01-13*
-
-*Zeyang Li, Sunbochen Tang, Navid Azizan*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+![](https://img.shields.io/badge/Citations-1-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-68-blue)](https://github.com/MikaStars39/PeRL) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
 
 ---
 
-**[KVzap: Fast, Adaptive, and Faithful KV Cache Pruning](https://arxiv.org/abs/2601.07891)**  🔥
+**[Deep GraphRAG: A Balanced Approach to Hierarchical Retrieval and Adaptive Integration](https://arxiv.org/abs/2601.11144)**  🔥
 
-*Published: 2026-01-12*
+*Published: 2026-01-29*
 
-*Simon Jegou, Maximilian Jeblick*
+*Yuejie Li, Ke Yang, Tao Wang, Bolin Chen, Bowen Li, Chengjun Mao*
 
-![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-**[PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning](https://arxiv.org/abs/2601.05593)**  🔥
-
-*Published: 2026-01-09*
-
-*Jingcheng Hu, Yinmin Zhang, Shijie Shang, Xiaobo Yang, Yue Peng, Zhewei Huang, Hebin Zhou, Xin Wu, Jie Cheng, Fanqi Wan, Xiangwen Kong, Chengyuan Yao, Kaiwen Yan, Ailin Huang, Hongyu Zhou, Qi Han, Zheng Ge, Daxin Jiang, Xiangyu Zhang, Heung-Yeung Shum*
-
-![](https://img.shields.io/badge/Citations-1-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
 ---
 
-**[RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation](https://arxiv.org/abs/2601.05241)**  🔥
+**[How Do Large Language Models Learn Concepts During Continual Pre-Training?](https://arxiv.org/abs/2601.03570)**  🔥
 
-*Published: 2026-01-08*
+*Published: 2026-01-07*
 
-*Boyang Wang, Haoran Zhang, Shujie Zhang, Jinkun Hao, Mingda Jia, Qi Lv, Yucheng Mao, Zhaoyang Lyu, Jia Zeng, Xudong Xu, Jiangmiao Pang*
+*Barry Menglong Yao, Sha Li, Yunzhi Yao, Minqian Liu, Zaishuo Xia, Qifan Wang, Lifu Huang*
 
 ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 
 ---
 
-**[Current Agents Fail to Leverage World Model as Tool for Foresight](https://arxiv.org/abs/2601.03905)**  🔥
+**[mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)**  🔥
 
-*Published: 2026-01-08*
+*Published: 2026-01-05*
 
-*Cheng Qian, Emre Can Acikgoz, Bingxuan Li, Xiusi Chen, Yuji Zhang, Bingxiang He, Qinyu Luo, Dilek Hakkani-Tür, Gokhan Tur, Yunzhu Li, Heng Ji*
+*Zhenda Xie, Yixuan Wei, Huanqi Cao, Chenggang Zhao, Chengqi Deng, Jiashi Li, Damai Dai, Huazuo Gao, Jiang Chang, Kuai Yu, Liang Zhao, Shangyan Zhou, Zhean Xu, Zhengyan Zhang, Wangding Zeng, Shengding Hu, Yuqing Wang, Jingyang Yuan, Lean Wang, Wenfeng Liang*
+
+![](https://img.shields.io/badge/Citations-3-9cf) ![](https://img.shields.io/badge/Mendeley%20Readers-78-red)
+
+---
+
+**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553)**  🔥
+
+*Published: 2026-01-05*
+
+*Jiaqi Liu, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao*
+
+![](https://img.shields.io/badge/Citations-1-9cf) ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
+
+---
+
+**[Recursive Language Models](https://arxiv.org/abs/2512.24601)**  🔥
+
+*Published: 2025-12-31*
+
+*Alex L. Zhang, Tim Kraska, Omar Khattab*
 
 ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
-**[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675)**  🔥
+**[GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction](https://arxiv.org/abs/2512.25073)**  🔥
 
-*Published: 2026-01-08*
+*Published: 2025-12-31*
 
-*Tony Lee, Andrew Wagenmaker, Karl Pertsch, Percy Liang, Sergey Levine, Chelsea Finn*
+*Yi-Chuan Huang, Hao-Jen Chien, Chin-Yang Lin, Ying-Huan Chen, Yu-Lun Liu*
 
 ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
-**[Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction](https://arxiv.org/abs/2601.04090)**  🔥
+**[DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](https://arxiv.org/abs/2512.24165)**  🔥
 
-*Published: 2026-01-07*
+*Published: 2025-12-30*
 
-*Jiaxin Huang, Yuanbo Yang, Bangbang Yang, Lin Ma, Yuewen Ma, Yiyi Liao*
+*Zefeng He, Xiaoye Qu, Yafu Li, Tong Zhu, Siyuan Huang, Yu Cheng*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
+
+---
+
+**[LongVie 2: Multimodal Controllable Ultra-Long Video World Model](https://arxiv.org/abs/2512.13604)**  🔥
+
+*Published: 2025-12-15*
+
+*Jianxiong Gao, Zhaoxi Chen, Xian Liu, Junhao Zhuang, Chengming Xu, Jianfeng Feng, Yu Qiao, Yanwei Fu, Chenyang Si, Ziwei Liu*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
 
 ---
 
