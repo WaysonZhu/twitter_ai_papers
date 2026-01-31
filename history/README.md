@@ -8,7 +8,110 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
+### 2026-01-31
+
+**[Cache What Lasts: Token Retention for Memory-Bounded KV Cache in LLMs](https://arxiv.org/abs/2512.03324)**  🔥
+
+*Published: 2025-12-03*
+
+*Ngoc Bui, Shubham Sharma, Simran Lamba, Saumitra Mishra, Rex Ying*
+
+![](https://img.shields.io/badge/Citations-2-9cf)
+
+---
+
+**[Everything is Context: Agentic File System Abstraction for Context Engineering](https://arxiv.org/abs/2512.05470)**  🔥
+
+*Published: 2025-12-05*
+
+*Xiwei Xu, Robert Mao, Quan Bai, Xuewu Gu, Yechao Li, Liming Zhu*
+
+![](https://img.shields.io/badge/Citations-2-9cf)
+
+---
+
+**[Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation](https://arxiv.org/abs/2512.09851)**  🔥
+
+*Published: 2025-12-10*
+
+*Yuyang Li, Yinghan Chen, Zihang Zhao, Puhao Li, Tengyu Liu, Siyuan Huang, Yixin Zhu*
+
+![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+**[Measuring and Fostering Peace through Machine Learning and Artificial Intelligence](https://arxiv.org/abs/2601.05232)**  🔥
+
+*Published: 2026-01-13*
+
+*P. Gilda, P. Dungarwal, A. Thongkham, E. T. Ajayi, S. Choudhary, T. M. Terol, C. Lam, J. P. Araujo, M. McFadyen-Mungalln, L. S. Liebovitch, P. T. Coleman, H. West, K. Sieck, S. Carter*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+**[Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision](https://arxiv.org/abs/2601.19798)**  🔥
+
+*Published: 2026-01-27*
+
+*Zhixiang Wei, Yi Li, Zhehan Kan, Xinghua Jiang, Zuwei Long, Shifeng Liu, Hongze Shen, Wei Liu, Xiaoyu Tan, Haojia Lin, Yubo Zhu, Qianyu Li, Di Yin, Haoyu Cao, Weibo Gu, Xin Li, Yinsong Liu, Deqiang Jiang, Xing Sun, Yunsheng Wu, Mingkong Tang, Shuangyin Liu, Lexiang Tang, Haodong Lin, Junru Lu, etc.*
+
+![](https://img.shields.io/badge/Citations-1-9cf) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+
 ### 2026-01-30
+
+**[GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction](https://arxiv.org/abs/2512.25073)**  🔥
+
+*Published: 2025-12-31*
+
+*Yi-Chuan Huang, Hao-Jen Chien, Chin-Yang Lin, Ying-Huan Chen, Yu-Lun Liu*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+**[Recursive Language Models](https://arxiv.org/abs/2512.24601)**  🔥
+
+*Published: 2025-12-31*
+
+*Alex L. Zhang, Tim Kraska, Omar Khattab*
+
+![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553)**  🔥
+
+*Published: 2026-01-05*
+
+*Jiaqi Liu, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao*
+
+![](https://img.shields.io/badge/Citations-1-9cf) ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
+
+---
+
+**[UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](https://arxiv.org/abs/2601.01222)**  🔥
+
+*Published: 2026-01-03*
+
+*Mengfei Li, Peng Li, Zheng Zhang, Jiahao Lu, Chengfeng Zhao, Wei Xue, Qifeng Liu, Sida Peng, Wenxiao Zhang, Wenhan Luo, Yuan Liu, Yike Guo*
+
+![](https://img.shields.io/badge/Citations-1-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-113-blue)](https://github.com/murphylmf/UniSH) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+**[mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)**  🔥
+
+*Published: 2026-01-05*
+
+*Zhenda Xie, Yixuan Wei, Huanqi Cao, Chenggang Zhao, Chengqi Deng, Jiashi Li, Damai Dai, Huazuo Gao, Jiang Chang, Kuai Yu, Liang Zhao, Shangyan Zhou, Zhean Xu, Zhengyan Zhang, Wangding Zeng, Shengding Hu, Yuqing Wang, Jingyang Yuan, Lean Wang, Wenfeng Liang*
+
+![](https://img.shields.io/badge/Citations-3-9cf) ![](https://img.shields.io/badge/Mendeley%20Readers-78-red)
+
+---
 
 **[How Do Large Language Models Learn Concepts During Continual Pre-Training?](https://arxiv.org/abs/2601.03570)**  🔥
 
@@ -40,23 +143,13 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](https://arxiv.org/abs/2601.01222)**  🔥
+**[DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](https://arxiv.org/abs/2512.24165)**  🔥
 
-*Published: 2026-01-03*
+*Published: 2025-12-30*
 
-*Mengfei Li, Peng Li, Zheng Zhang, Jiahao Lu, Chengfeng Zhao, Wei Xue, Qifeng Liu, Sida Peng, Wenxiao Zhang, Wenhan Luo, Yuan Liu, Yike Guo*
+*Zefeng He, Xiaoye Qu, Yafu Li, Tong Zhu, Siyuan Huang, Yu Cheng*
 
-![](https://img.shields.io/badge/Citations-1-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-113-blue)](https://github.com/murphylmf/UniSH) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-**[mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)**  🔥
-
-*Published: 2026-01-05*
-
-*Zhenda Xie, Yixuan Wei, Huanqi Cao, Chenggang Zhao, Chengqi Deng, Jiashi Li, Damai Dai, Huazuo Gao, Jiang Chang, Kuai Yu, Liang Zhao, Shangyan Zhou, Zhean Xu, Zhengyan Zhang, Wangding Zeng, Shengding Hu, Yuqing Wang, Jingyang Yuan, Lean Wang, Wenfeng Liang*
-
-![](https://img.shields.io/badge/Citations-3-9cf) ![](https://img.shields.io/badge/Mendeley%20Readers-78-red)
+![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
 
 ---
 
@@ -70,96 +163,16 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553)**  🔥
-
-*Published: 2026-01-05*
-
-*Jiaqi Liu, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao*
-
-![](https://img.shields.io/badge/Citations-1-9cf) ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
-
----
-
-**[Recursive Language Models](https://arxiv.org/abs/2512.24601)**  🔥
-
-*Published: 2025-12-31*
-
-*Alex L. Zhang, Tim Kraska, Omar Khattab*
-
-![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-**[GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction](https://arxiv.org/abs/2512.25073)**  🔥
-
-*Published: 2025-12-31*
-
-*Yi-Chuan Huang, Hao-Jen Chien, Chin-Yang Lin, Ying-Huan Chen, Yu-Lun Liu*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-**[DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](https://arxiv.org/abs/2512.24165)**  🔥
-
-*Published: 2025-12-30*
-
-*Zefeng He, Xiaoye Qu, Yafu Li, Tong Zhu, Siyuan Huang, Yu Cheng*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
-
----
-
 
 ### 2026-01-29
 
-**[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675)**  🔥
+**[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://arxiv.org/abs/2601.09667)**  🔥
 
-*Published: 2026-01-08*
+*Published: 2026-01-15*
 
-*Tony Lee, Andrew Wagenmaker, Karl Pertsch, Percy Liang, Sergey Levine, Chelsea Finn*
+*Zhiyuan Hu, Yunhai Hu, Juncheng Liu, Shuyue Stella Li, Yucheng Wang, Zhen Xu, See-Kiong Ng, Anh Tuan Luu, Xinxing Xu, Bryan Hooi, Cynthia Breazeal, Hae Won Park*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-**[Current Agents Fail to Leverage World Model as Tool for Foresight](https://arxiv.org/abs/2601.03905)**  🔥
-
-*Published: 2026-01-08*
-
-*Cheng Qian, Emre Can Acikgoz, Bingxuan Li, Xiusi Chen, Yuji Zhang, Bingxiang He, Qinyu Luo, Dilek Hakkani-Tür, Gokhan Tur, Yunzhu Li, Heng Ji*
-
-![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-**[RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation](https://arxiv.org/abs/2601.05241)**  🔥
-
-*Published: 2026-01-08*
-
-*Boyang Wang, Haoran Zhang, Shujie Zhang, Jinkun Hao, Mingda Jia, Qi Lv, Yucheng Mao, Zhaoyang Lyu, Jia Zeng, Xudong Xu, Jiangmiao Pang*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
-
----
-
-**[PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning](https://arxiv.org/abs/2601.05593)**  🔥
-
-*Published: 2026-01-09*
-
-*Jingcheng Hu, Yinmin Zhang, Shijie Shang, Xiaobo Yang, Yue Peng, Zhewei Huang, Hebin Zhou, Xin Wu, Jie Cheng, Fanqi Wan, Xiangwen Kong, Chengyuan Yao, Kaiwen Yan, Ailin Huang, Hongyu Zhou, Qi Han, Zheng Ge, Daxin Jiang, Xiangyu Zhang, Heung-Yeung Shum*
-
-![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-**[KVzap: Fast, Adaptive, and Faithful KV Cache Pruning](https://arxiv.org/abs/2601.07891)**  🔥
-
-*Published: 2026-01-12*
-
-*Simon Jegou, Maximilian Jeblick*
-
-![](https://img.shields.io/badge/Citations-1-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
 
 ---
 
@@ -173,31 +186,51 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://arxiv.org/abs/2601.09667)**  🔥
-
-*Published: 2026-01-15*
-
-*Zhiyuan Hu, Yunhai Hu, Juncheng Liu, Shuyue Stella Li, Yucheng Wang, Zhen Xu, See-Kiong Ng, Anh Tuan Luu, Xinxing Xu, Bryan Hooi, Cynthia Breazeal, Hae Won Park*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
-
----
-
-**[Learning Latent Action World Models In The Wild](https://arxiv.org/abs/2601.05230)**  🔥
-
-*Published: 2026-01-20*
-
-*Quentin Garrido, Tushar Nagarajan, Basile Terver, Nicolas Ballas, Yann LeCun, Michael Rabbat*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-13-red)
-
----
-
 **[Reverse Flow Matching: A Unified Framework for Online Reinforcement Learning with Diffusion and Flow Policies](https://arxiv.org/abs/2601.08136)**  🔥
 
 *Published: 2026-01-13*
 
 *Zeyang Li, Sunbochen Tang, Navid Azizan*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+**[KVzap: Fast, Adaptive, and Faithful KV Cache Pruning](https://arxiv.org/abs/2601.07891)**  🔥
+
+*Published: 2026-01-12*
+
+*Simon Jegou, Maximilian Jeblick*
+
+![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+**[PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning](https://arxiv.org/abs/2601.05593)**  🔥
+
+*Published: 2026-01-09*
+
+*Jingcheng Hu, Yinmin Zhang, Shijie Shang, Xiaobo Yang, Yue Peng, Zhewei Huang, Hebin Zhou, Xin Wu, Jie Cheng, Fanqi Wan, Xiangwen Kong, Chengyuan Yao, Kaiwen Yan, Ailin Huang, Hongyu Zhou, Qi Han, Zheng Ge, Daxin Jiang, Xiangyu Zhang, Heung-Yeung Shum*
+
+![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+**[Current Agents Fail to Leverage World Model as Tool for Foresight](https://arxiv.org/abs/2601.03905)**  🔥
+
+*Published: 2026-01-08*
+
+*Cheng Qian, Emre Can Acikgoz, Bingxuan Li, Xiusi Chen, Yuji Zhang, Bingxiang He, Qinyu Luo, Dilek Hakkani-Tür, Gokhan Tur, Yunzhu Li, Heng Ji*
+
+![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+**[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675)**  🔥
+
+*Published: 2026-01-08*
+
+*Tony Lee, Andrew Wagenmaker, Karl Pertsch, Percy Liang, Sergey Levine, Chelsea Finn*
 
 ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
@@ -213,36 +246,36 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
+**[Learning Latent Action World Models In The Wild](https://arxiv.org/abs/2601.05230)**  🔥
 
-### 2026-01-28
+*Published: 2026-01-20*
 
-**[GR-Dexter Technical Report](https://arxiv.org/abs/2512.24210)**  🔥
+*Quentin Garrido, Tushar Nagarajan, Basile Terver, Nicolas Ballas, Yann LeCun, Michael Rabbat*
 
-*Published: 2026-01-09*
+![](https://img.shields.io/badge/Mendeley%20Readers-13-red)
 
-*Ruoshi Wen, Guangzeng Chen, Zhongren Cui, Min Du, Yang Gou, Zhigang Han, Liqun Huang, Mingyu Lei, Yunfei Li, Zhuohang Li, Wenlei Liu, Yuxiao Liu, Xiao Ma, Hao Niu, Yutao Ouyang, Zeyu Ren, Haixin Shi, Wei Xu, Haoxiang Zhang, Jiajun Zhang, Xiao Zhang, Liwei Zheng, Weiheng Zhong, Yifei Zhou, Zhengming Zhu, etc.*
+---
+
+**[RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation](https://arxiv.org/abs/2601.05241)**  🔥
+
+*Published: 2026-01-08*
+
+*Boyang Wang, Haoran Zhang, Shujie Zhang, Jinkun Hao, Mingda Jia, Qi Lv, Yucheng Mao, Zhaoyang Lyu, Jia Zeng, Xudong Xu, Jiangmiao Pang*
 
 ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 
 ---
 
-**[Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/abs/2601.14192)**  🔥
 
-*Published: 2026-01-20*
+### 2026-01-28
 
-*Xiaofang Yang, Lijun Li, Heng Zhou, Tong Zhu, Xiaoye Qu, Yuchen Fan, Qianshan Wei, Rui Ye, Li Kang, Yiran Qin, Zhiqiang Kou, Daizong Liu, Qi Li, Ning Ding, Siheng Chen, Jing Shao*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
-
----
-
-**[Reasoning in Trees: Improving Retrieval-Augmented Generation for Multi-Hop Question Answering](https://arxiv.org/abs/2601.11255)**  🔥
+**[Predict the Retrieval! Test time adaptation for Retrieval Augmented Generation](https://arxiv.org/abs/2601.11443)**  🔥
 
 *Published: 2026-01-16*
 
-*Yuling Shi, Maolin Sun, Zijun Liu, Mo Yang, Yixiong Fang, Tianran Sun, Xiaodong Gu*
+*Xin Sun, Zhongqi Chen, Qiang Liu, Shu Wu, Bowen Song, Weiqiang Wang, Zilei Wang, Liang Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-4-blue)](https://github.com/sakura20221/RT-RAG)
+[![](https://img.shields.io/badge/GitHub%20Stars-3-blue)](https://github.com/sunxin000/TTARAG)
 
 ---
 
@@ -266,43 +299,23 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[Native and Compact Structured Latents for 3D Generation](https://arxiv.org/abs/2512.14692)**  🔥
+**[Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/abs/2601.14192)**  🔥
 
-*Published: 2025-12-16*
+*Published: 2026-01-20*
 
-*Jianfeng Xiang, Xiaoxue Chen, Sicheng Xu, Ruicheng Wang, Zelong Lv, Yu Deng, Hongyuan Zhu, Yue Dong, Hao Zhao, Nicholas Jing Yuan, Jiaolong Yang*
+*Xiaofang Yang, Lijun Li, Heng Zhou, Tong Zhu, Xiaoye Qu, Yuchen Fan, Qianshan Wei, Rui Ye, Li Kang, Yiran Qin, Zhiqiang Kou, Daizong Liu, Qi Li, Ning Ding, Siheng Chen, Jing Shao*
 
-![](https://img.shields.io/badge/Citations-2-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-3,193-blue)](https://github.com/microsoft/TRELLIS.2)
-
----
-
-**[VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents](https://arxiv.org/abs/2601.16973)**  🔥
-
-*Published: 2026-01-23*
-
-*Zirui Wang, Junyi Zhang, Jiaxin Ge, Long Lian, Letian Fu, Lisa Dunlap, Ken Goldberg, XuDong Wang, Ion Stoica, David M. Chan, Sewon Min, Joseph E. Gonzalez*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/visgym/visgym)
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
 ---
 
-**[MiRAGE: A Multiagent Framework for Generating Multimodal Multihop Question-Answer Dataset for RAG Evaluation](https://arxiv.org/abs/2601.15487)**  🔥
+**[GR-Dexter Technical Report](https://arxiv.org/abs/2512.24210)**  🔥
 
-*Published: 2026-01-21*
+*Published: 2026-01-09*
 
-*Chandan Kumar Sahu, Premith Kumar Chilukuri, Matthew Hetrich*
+*Ruoshi Wen, Guangzeng Chen, Zhongren Cui, Min Du, Yang Gou, Zhigang Han, Liqun Huang, Mingyu Lei, Yunfei Li, Zhuohang Li, Wenlei Liu, Yuxiao Liu, Xiao Ma, Hao Niu, Yutao Ouyang, Zeyu Ren, Haixin Shi, Wei Xu, Haoxiang Zhang, Jiajun Zhang, Xiao Zhang, Liwei Zheng, Weiheng Zhong, Yifei Zhou, Zhengming Zhu, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-4-blue)](https://github.com/ChandanKSahu/MiRAGE)
-
----
-
-**[Predict the Retrieval! Test time adaptation for Retrieval Augmented Generation](https://arxiv.org/abs/2601.11443)**  🔥
-
-*Published: 2026-01-16*
-
-*Xin Sun, Zhongqi Chen, Qiang Liu, Shu Wu, Bowen Song, Weiqiang Wang, Zilei Wang, Liang Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-3-blue)](https://github.com/sunxin000/TTARAG)
+![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 
 ---
 
@@ -316,18 +329,48 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
+**[Reasoning in Trees: Improving Retrieval-Augmented Generation for Multi-Hop Question Answering](https://arxiv.org/abs/2601.11255)**  🔥
 
-### 2026-01-27
+*Published: 2026-01-16*
 
-**[Action100M: A Large-scale Video Action Dataset](https://arxiv.org/abs/2601.10592)**  🔥
+*Yuling Shi, Maolin Sun, Zijun Liu, Mo Yang, Yixiong Fang, Tianran Sun, Xiaodong Gu*
 
-*Published: 2026-01-15*
-
-*Delong Chen, Tejaswi Kasarla, Yejin Bang, Mustafa Shukor, Willy Chung, Jade Yu, Allen Bolourchi, Theo Moutakanni, Pascale Fung*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-355-blue)](https://github.com/facebookresearch/Action100M) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-4-blue)](https://github.com/sakura20221/RT-RAG)
 
 ---
+
+**[MiRAGE: A Multiagent Framework for Generating Multimodal Multihop Question-Answer Dataset for RAG Evaluation](https://arxiv.org/abs/2601.15487)**  🔥
+
+*Published: 2026-01-21*
+
+*Chandan Kumar Sahu, Premith Kumar Chilukuri, Matthew Hetrich*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-4-blue)](https://github.com/ChandanKSahu/MiRAGE)
+
+---
+
+**[VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents](https://arxiv.org/abs/2601.16973)**  🔥
+
+*Published: 2026-01-23*
+
+*Zirui Wang, Junyi Zhang, Jiaxin Ge, Long Lian, Letian Fu, Lisa Dunlap, Ken Goldberg, XuDong Wang, Ion Stoica, David M. Chan, Sewon Min, Joseph E. Gonzalez*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/visgym/visgym)
+
+---
+
+**[Native and Compact Structured Latents for 3D Generation](https://arxiv.org/abs/2512.14692)**  🔥
+
+*Published: 2025-12-16*
+
+*Jianfeng Xiang, Xiaoxue Chen, Sicheng Xu, Ruicheng Wang, Zelong Lv, Yu Deng, Hongyuan Zhu, Yue Dong, Hao Zhao, Nicholas Jing Yuan, Jiaolong Yang*
+
+![](https://img.shields.io/badge/Citations-2-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-3,193-blue)](https://github.com/microsoft/TRELLIS.2)
+
+---
+
+
+### 2026-01-27
 
 **[On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](https://arxiv.org/abs/2512.07783)**  🔥
 
@@ -336,6 +379,16 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 *Charlie Zhang, Graham Neubig, Xiang Yue*
 
 ![](https://img.shields.io/badge/Citations-10-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-130-blue)](https://github.com/Interplay-LM-Reasoning/Interplay-LM-Reasoning) ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)
+
+---
+
+**[MemR$^3$: Memory Retrieval via Reflective Reasoning for LLM Agents](https://arxiv.org/abs/2512.20237)**  🔥
+
+*Published: 2025-12-23*
+
+*Xingbo Du, Loka Li, Duzhen Zhang, Le Song*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/Leagein/memr3)
 
 ---
 
@@ -349,13 +402,13 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[MemR$^3$: Memory Retrieval via Reflective Reasoning for LLM Agents](https://arxiv.org/abs/2512.20237)**  🔥
+**[Action100M: A Large-scale Video Action Dataset](https://arxiv.org/abs/2601.10592)**  🔥
 
-*Published: 2025-12-23*
+*Published: 2026-01-15*
 
-*Xingbo Du, Loka Li, Duzhen Zhang, Le Song*
+*Delong Chen, Tejaswi Kasarla, Yejin Bang, Mustafa Shukor, Willy Chung, Jade Yu, Allen Bolourchi, Theo Moutakanni, Pascale Fung*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/Leagein/memr3)
+[![](https://img.shields.io/badge/GitHub%20Stars-355-blue)](https://github.com/facebookresearch/Action100M) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
 
 ---
 
@@ -372,53 +425,13 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ### 2026-01-26
 
-**[mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs](https://arxiv.org/abs/2512.15692)**  🔥
+**[EgoX: Egocentric Video Generation from a Single Exocentric Video](https://arxiv.org/abs/2512.08269)**  🔥
 
-*Published: 2025-12-19*
+*Published: 2025-12-09*
 
-*Jonas Pai, Liam Achenbach, Victoriano Montesinos, Benedek Forrai, Oier Mees, Elvis Nava*
+*Taewoong Kang, Kinam Kim, Dohyeon Kim, Minho Park, Junha Hyung, Jaegul Choo*
 
-![](https://img.shields.io/badge/Citations-1-9cf) ![](https://img.shields.io/badge/Mendeley%20Readers-18-red)
-
----
-
-**[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206)**  🔥
-
-*Published: 2026-01-22*
-
-*Daixuan Cheng, Shaohan Huang, Yuxian Gu, Huatong Song, Guoxin Chen, Li Dong, Wayne Xin Zhao, Ji-Rong Wen, Furu Wei*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-94-blue)](https://github.com/llm-in-sandbox/llm-in-sandbox) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
-
----
-
-**[RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation](https://arxiv.org/abs/2511.17441)**  🔥
-
-*Published: 2025-12-15*
-
-*Shihan Wu, Xuecheng Liu, Shaoxuan Xie, Pengwei Wang, Xinghang Li, Bowen Yang, Zhe Li, Kai Zhu, Hongyu Wu, Yiheng Liu, Zhaoye Long, Yue Wang, Chong Liu, Dihan Wang, Ziqiang Ni, Xiang Yang, You Liu, Ruoxuan Feng, Runtian Xu, Lei Zhang, Denghang Huang, Chenghao Jin, Anlan Yin, Xinlong Wang, Zhenguo Sun, etc.*
-
-![](https://img.shields.io/badge/Citations-3-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-150-blue)](https://github.com/FlagOpen/RoboCOIN) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
-
----
-
-**[Generating readily synthesizable small molecule fluorophore scaffolds with reinforcement learning](https://arxiv.org/abs/2601.07145)**  🔥
-
-*Published: 2026-01-12*
-
-*Ruhi Sayana, Kate Callon, Jennifer Xu, Jonathan Deutsch, Steven Chu, James Zou, John Janetzko, Rabindra V. Shivnaraine, Kyle Swanson*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-195-blue)](https://github.com/swansonk14/SyntheMol)
-
----
-
-**[Walrus: A Cross-Domain Foundation Model for Continuum Dynamics](https://arxiv.org/abs/2511.15684)**  🔥
-
-*Published: 2025-11-19*
-
-*Michael McCabe, Payel Mukhopadhyay, Tanya Marwah, Bruno Regaldo-Saint Blancard, Francois Rozet, Cristiana Diaconu, Lucas Meyer, Kaze W. K. Wong, Hadi Sotoudeh, Alberto Bietti, Irina Espejo, Rio Fear, Siavash Golkar, Tom Hehir, Keiya Hirashima, Geraud Krawezik, Francois Lanusse, Rudy Morel, Ruben Ohana, Liam Parker, Mariel Pettee, Jeff Shen, Kyunghyun Cho, Miles Cranmer, Shirley Ho*
-
-![](https://img.shields.io/badge/Citations-3-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-211-blue)](https://github.com/PolymathicAI/walrus) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-493-blue)](https://github.com/DAVIAN-Robotics/EgoX) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
 
 ---
 
@@ -432,13 +445,53 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[EgoX: Egocentric Video Generation from a Single Exocentric Video](https://arxiv.org/abs/2512.08269)**  🔥
+**[Walrus: A Cross-Domain Foundation Model for Continuum Dynamics](https://arxiv.org/abs/2511.15684)**  🔥
 
-*Published: 2025-12-09*
+*Published: 2025-11-19*
 
-*Taewoong Kang, Kinam Kim, Dohyeon Kim, Minho Park, Junha Hyung, Jaegul Choo*
+*Michael McCabe, Payel Mukhopadhyay, Tanya Marwah, Bruno Regaldo-Saint Blancard, Francois Rozet, Cristiana Diaconu, Lucas Meyer, Kaze W. K. Wong, Hadi Sotoudeh, Alberto Bietti, Irina Espejo, Rio Fear, Siavash Golkar, Tom Hehir, Keiya Hirashima, Geraud Krawezik, Francois Lanusse, Rudy Morel, Ruben Ohana, Liam Parker, Mariel Pettee, Jeff Shen, Kyunghyun Cho, Miles Cranmer, Shirley Ho*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-493-blue)](https://github.com/DAVIAN-Robotics/EgoX) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+![](https://img.shields.io/badge/Citations-3-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-211-blue)](https://github.com/PolymathicAI/walrus) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+
+---
+
+**[Generating readily synthesizable small molecule fluorophore scaffolds with reinforcement learning](https://arxiv.org/abs/2601.07145)**  🔥
+
+*Published: 2026-01-12*
+
+*Ruhi Sayana, Kate Callon, Jennifer Xu, Jonathan Deutsch, Steven Chu, James Zou, John Janetzko, Rabindra V. Shivnaraine, Kyle Swanson*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-195-blue)](https://github.com/swansonk14/SyntheMol)
+
+---
+
+**[Large Video Planner Enables Generalizable Robot Control](https://arxiv.org/abs/2512.15840)**  🔥
+
+*Published: 2025-12-17*
+
+*Boyuan Chen, Tianyuan Zhang, Haoran Geng, Kiwhan Song, Caiyi Zhang, Peihao Li, William T. Freeman, Jitendra Malik, Pieter Abbeel, Russ Tedrake, Vincent Sitzmann, Yilun Du*
+
+![](https://img.shields.io/badge/Citations-1-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-169-blue)](https://github.com/buoyancy99/large-video-planner) ![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
+
+---
+
+**[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206)**  🔥
+
+*Published: 2026-01-22*
+
+*Daixuan Cheng, Shaohan Huang, Yuxian Gu, Huatong Song, Guoxin Chen, Li Dong, Wayne Xin Zhao, Ji-Rong Wen, Furu Wei*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-94-blue)](https://github.com/llm-in-sandbox/llm-in-sandbox) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+**[mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs](https://arxiv.org/abs/2512.15692)**  🔥
+
+*Published: 2025-12-19*
+
+*Jonas Pai, Liam Achenbach, Victoriano Montesinos, Benedek Forrai, Oier Mees, Elvis Nava*
+
+![](https://img.shields.io/badge/Citations-1-9cf) ![](https://img.shields.io/badge/Mendeley%20Readers-18-red)
 
 ---
 
@@ -452,13 +505,13 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[Large Video Planner Enables Generalizable Robot Control](https://arxiv.org/abs/2512.15840)**  🔥
+**[RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation](https://arxiv.org/abs/2511.17441)**  🔥
 
-*Published: 2025-12-17*
+*Published: 2025-12-15*
 
-*Boyuan Chen, Tianyuan Zhang, Haoran Geng, Kiwhan Song, Caiyi Zhang, Peihao Li, William T. Freeman, Jitendra Malik, Pieter Abbeel, Russ Tedrake, Vincent Sitzmann, Yilun Du*
+*Shihan Wu, Xuecheng Liu, Shaoxuan Xie, Pengwei Wang, Xinghang Li, Bowen Yang, Zhe Li, Kai Zhu, Hongyu Wu, Yiheng Liu, Zhaoye Long, Yue Wang, Chong Liu, Dihan Wang, Ziqiang Ni, Xiang Yang, You Liu, Ruoxuan Feng, Runtian Xu, Lei Zhang, Denghang Huang, Chenghao Jin, Anlan Yin, Xinlong Wang, Zhenguo Sun, etc.*
 
-![](https://img.shields.io/badge/Citations-1-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-169-blue)](https://github.com/buoyancy99/large-video-planner) ![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
+![](https://img.shields.io/badge/Citations-3-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-150-blue)](https://github.com/FlagOpen/RoboCOIN) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
 
 ---
 
