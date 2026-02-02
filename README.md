@@ -49,7 +49,7 @@
 
 </div>
 
-> **⭐️ Shining ⭐️:** This is fresh, daily-updated resources for in-context learning and prompt engineering. As Artificial General Intelligence (AGI) is approaching, let’s take action and become a super learner so as to position ourselves at the forefront of this exciting era and strive for personal and professional greatness.
+> **⭐️ Shining ⭐️:** This is fresh, daily-updated resources for in-context learning and prompt engineering. As Artificial General Intelligence (AGI) is approaching, let's take action and become a super learner so as to position ourselves at the forefront of this exciting era and strive for personal and professional greatness.
 
 The resources include:
 
@@ -100,96 +100,9 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 <!-- ☄️ **May 1, 2025** *– Buzzing papers everyone’s talking about* -->
 
 
+
 ### **[2026-02-02]**
 
-[**Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning**](https://arxiv.org/abs/2601.11109) （**New**）
-
-<font color="gray">Shaofeng Yin, Jiaxin Ge, Zora Zhiruo Wang, Xiuyu Li, Michael J. Black, Trevor Darrell, Angjoo Kanazawa, Haiwen Feng - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-703-blue)](https://github.com/Fugtemypt123/VIGA) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-
-[**Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs**](https://huggingface.co/papers/2601.17058) （**New**）
-
-<font color="gray">Wei Zhou, Jun Zhou, Haoyu Wang, Zhenghao Li, Qikang He, Shaokun Han, Guoliang Li, Xuanhe Zhou, Yeye He, Chunwei Liu, Zirui Tang, Bin Wang, Shen Tang, Kai Zuo, Yuyu Luo, Zhenzhe Zheng, Conghui He, Jing - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-675-blue)](https://github.com/weAIDB/awesome-data-llm)
-
----
-
-
-[**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**](https://arxiv.org/abs/2601.16163) （**New**）
-
-<font color="gray">Moo Jin Kim, Yihuai Gao, Tsung-Yi Lin, Yen-Chen Lin, Yunhao Ge, Grace Lam, Percy Liang, Shuran Song, Ming-Yu Liu, Chelsea Finn, Jinwei Gu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-377-blue)](https://github.com/nvlabs/cosmos-policy) ![](https://img.shields.io/badge/Mendeley%20Readers-10-red) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-[**Action100M: A Large-scale Video Action Dataset**](https://arxiv.org/abs/2601.10592) （**New**）
-
-<font color="gray">Delong Chen, Tejaswi Kasarla, Yejin Bang, Mustafa Shukor, Willy Chung, Jade Yu, Allen Bolourchi, Theo Moutakanni, Pascale Fung - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-376-blue)](https://github.com/facebookresearch/Action100M) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
-
----
-
-
-[**Dr. Zero: Self-Evolving Search Agents without Training Data**](https://arxiv.org/abs/2601.07055) （**New**）
-
-<font color="gray">Zhenrui Yue, Kartikeya Upasani, Xianjun Yang, Suyu Ge, Shaoliang Nie, Yuning Mao, Zhe Liu, Dong Wang - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-330-blue)](https://github.com/facebookresearch/drzero) ![](https://img.shields.io/badge/Mendeley%20Readers-9-red)
-
----
-
-
-[**AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security**](https://huggingface.co/papers/2601.18491) （**New**）
-
-<font color="gray">Dongrui Liu, Qihan Ren, Chen Qian, Shuai Shao, Yuejin Xie, Yu Li, Zhonghao Yang, Haoyu Luo, Peng Wang, Qingyu Liu, Binxin Hu, Ling Tang, Jilin Mei, Dadi Guo, Leitao Yuan, Junyao Yang, Guanxu Chen, Qih - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-280-blue)](https://github.com/AI45Lab/AgentDoG)
-
----
-
-
-[**The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation**](https://huggingface.co/papers/2601.17737) （**New**）
-
-<font color="gray">Chenyu Mu, Xin He, Qu Yang, Wanshun Chen, Jiadi Yao, Huang Liu, Zihao Yi, Bo Zhao, Xingyu Chen, Ruotian Ma, Fanghua Ye, Erkun Yang, Cheng Deng, Zhaopeng Tu, Xiaolong Li, Linus - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-251-blue)](https://github.com/Tencent/digitalhuman/tree/main/ScriptAgent) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-
-[**Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives**](https://huggingface.co/papers/2601.20833) （**New**）
-
-<font color="gray">Tengyue Xu, Zhuoyang Qian, Gaoge Liu, Li Ling, Zhentao Zhang, Biao Wu, Shuo Zhang, Ke Lu, Wei Shi, Ziqi Wang, Zheng Feng, Yan Luo, Shu Xu, Yongjin Chen, Zhibo Feng, Zhuo Chen, Bruce Yuan, Harry Wang,  - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-241-blue)](https://github.com/AgentAlphaAGI/Idea2Paper) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
-
----
-
-
-[**LongCat-Flash-Thinking-2601 Technical Report**](https://huggingface.co/papers/2601.16725) （**New**）
-
-<font color="gray">Meituan LongCat Team, Anchun Gui, Bei Li, Bingyang Tao, Bole Zhou, Borun Chen, Chao Zhang, Chao Zhang, Chen Gao, Chen Zhang, Chengcheng Han, Chenhui Yang, Chuyu Zhang, Cong Chen, Cunguang Wang, Daoru  - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-230-blue)](https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601)
-
----
-
-
-[**Yunjue Agent Tech Report: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks**](https://huggingface.co/papers/2601.18226) （**New**）
-
-<font color="gray">Haotian Li, Shijun Yang, Weizhen Qi, Silei Zhao, Rui Hua, Mingzhu Song, Xiaojian Yang, Chao Peng - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-223-blue)](https://github.com/YunjueTech/Yunjue-Agent)
-
----
 
 
 [👉 Complete history news 👈](./historynews.md)
@@ -208,7 +121,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 <div style="line-height:0.2em;">
-
 
 
 [**Motion meets Attention: Video Motion Prompts**](https://arxiv.org/abs/2407.03179) （**2024.07.03**）
@@ -239,7 +151,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-3-green)  [![](https://img.shields.io/badge/Github%20Stars-106-blue)](https://github.com/quchangle1/llm-tool-survey)
 
-[**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**](https://doi.org/10.48550/arXiv.2405.10255) （**2024.05.16**）
+[**When LLMs step into the 3D World: A Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**](https://doi.org/10.48550/arXiv.2405.10255) （**2024.05.16**）
 
 ![](https://img.shields.io/badge/Citations-1-green)  [![](https://img.shields.io/badge/Github%20Stars-833-blue)](https://github.com/activevisionlab/awesome-llm-3d)
 
@@ -410,7 +322,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 </div>
 
 👉[Complete paper list 🔗 for "In-context Learning"](./PaperList/InContextLearningList.md)👈
-
 
 ### Retrieval Augmented Generation
 
@@ -612,7 +523,6 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-
 </div>
 
 👉[Complete paper list 🔗 for "Multimodal Prompt"](./PaperList/multimodalprompt.md)👈
@@ -643,7 +553,7 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
-[**Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs**](https://arxiv.org/abs/2406.10216) （**2024.06.14**）
+[**Regularizing Hidden States Enables Learning Generalized Reward Model for LLMs**](https://arxiv.org/abs/2406.10216) （**2024.06.14**）
 
 ![](https://img.shields.io/badge/Citations-0-green)
 
@@ -841,9 +751,9 @@ Thanks to the PhD students from [EgoAlpha Lab](https://github.com/EgoAlpha) and 
 <!-- ## Guest Contributors
 * [No] -->
 
-<!-- <img width="200%" src="./figures/hr.gif" />
+<!-- <img width="200%" src="./figures/hr.gif" /> -->
 
-# 📔 License
+<!-- # 📔 License
 
 This project is open source and available under the MIT
 
