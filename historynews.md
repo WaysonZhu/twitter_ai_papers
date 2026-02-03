@@ -11,6 +11,120 @@ Complete history news
 
 
 
+### 2026-02-03
+
+**[An Empirical Study of World Model Quantization](https://huggingface.co/papers/2602.02110)** NEW
+
+*Published: 2026-02-02*
+
+*Zhongqian Fu, Tianyi Zhao, Kai Han, Hang Zhou, Xinghao Chen, Yunhe Wang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-930-blue)](https://github.com/huawei-noah/noah-research/tree/master/QuantWM)
+
+---
+
+
+**[RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](https://huggingface.co/papers/2602.02488)** NEW
+
+*Published: 2026-02-02*
+
+*Yinjie Wang, Tianbao Xie, Ke Shen, Mengdi Wang, Ling Yang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-174-blue)](https://github.com/Gen-Verse/Open-AgentRL)
+
+---
+
+
+**[Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](https://huggingface.co/papers/2602.02214)** NEW
+
+*Published: 2026-02-02*
+
+*Hongzhou Zhu, Min Zhao, Guande He, Hang Su, Chongxuan Li, Jun Zhu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-86-blue)](https://github.com/thu-ml/Causal-Forcing)
+
+---
+
+
+**[Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868)** NEW
+
+*Published: 2026-01-17*
+
+*Mike A. Merrill, Alexander G. Shaw, Nicholas Carlini, Boxuan Li, Harsh Raj, Ivan Bercovich, Lin Shi, Jeong Yeon Shin, Thomas Walshe, E. Kelly Buchanan, Junhong Shen, Guanghao Ye, Haowei Lin, Jason Poulos, Maoyu Wang, Marianna Nezhurina, Jenia Jitsev, Di Lu, Orfeas Menis Mastromichalakis, Zhiwei Xu, Zizhao Chen, Yue Liu, Robert Zhang, Leon Liangyu Chen, Anurag Kashyap, etc.*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-3-red) [![](https://img.shields.io/badge/GitHub%20Stars-529-blue)](https://github.com/laude-institute/harbor) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[Generating readily synthesizable small molecule fluorophore scaffolds with reinforcement learning](https://arxiv.org/abs/2601.07145)** NEW
+
+*Published: 2026-01-12*
+
+*Ruhi Sayana, Kate Callon, Jennifer Xu, Jonathan Deutsch, Steven Chu, James Zou, John Janetzko, Rabindra V. Shivnaraine, Kyle Swanson*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-196-blue)](https://github.com/swansonk14/SyntheMol)
+
+---
+
+
+**[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206)** NEW
+
+*Published: 2026-01-22*
+
+*Daixuan Cheng, Shaohan Huang, Yuxian Gu, Huatong Song, Guoxin Chen, Li Dong, Wayne Xin Zhao, Ji-Rong Wen, Furu Wei*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-7-red) [![](https://img.shields.io/badge/GitHub%20Stars-153-blue)](https://github.com/llm-in-sandbox/llm-in-sandbox) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[Scaling Multiagent Systems with Process Rewards](https://huggingface.co/papers/2601.23228)** NEW
+
+*Published: 2026-01-30*
+
+*Ed Li, Junyu Ren, Cat Yan*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-143-blue)](https://github.com/ltjed/multiagent-coaching)
+
+---
+
+
+**[SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://huggingface.co/papers/2601.16746)** NEW
+
+*Published: 2026-01-23*
+
+*Yuhang Wang, Yuling Shi, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-126-blue)](https://github.com/Ayanami1314/swe-pruner)
+
+---
+
+
+**[Self-Refining Video Sampling](https://huggingface.co/papers/2601.18577)** NEW
+
+*Published: 2026-01-26*
+
+*Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Saining Xie, Jaehong Yoon, Sung Ju Hwang*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-123-blue)](https://github.com/agwmon/self-refine-video)
+
+---
+
+
+**[UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](https://arxiv.org/abs/2601.01222)** NEW
+
+*Published: 2026-01-03*
+
+*Mengfei Li, Peng Li, Zheng Zhang, Jiahao Lu, Chengfeng Zhao, Wei Xue, Qifeng Liu, Sida Peng, Wenxiao Zhang, Wenhan Luo, Yuan Liu, Yike Guo*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-115-blue)](https://github.com/murphylmf/UniSH) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+
+
 ### 2026-02-02
 
 **[Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning](https://arxiv.org/abs/2601.11109)** NEW
