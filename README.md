@@ -101,94 +101,94 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-02-02]**
+### **[2026-02-03]**
 
-[**Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning**](https://arxiv.org/abs/2601.11109) （**New**）
+[**An Empirical Study of World Model Quantization**](https://huggingface.co/papers/2602.02110) （**New**）
 
-<font color="gray">Shaofeng Yin, Jiaxin Ge, Zora Zhiruo Wang, Xiuyu Li, Michael J. Black, Trevor Darrell, Angjoo Kanazawa, Haiwen Feng - [arXiv]</font>
+<font color="gray">Zhongqian Fu, Tianyi Zhao, Kai Han, Hang Zhou, Xinghao Chen, Yunhe Wang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-703-blue)](https://github.com/Fugtemypt123/VIGA) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-
-[**Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs**](https://huggingface.co/papers/2601.17058) （**New**）
-
-<font color="gray">Wei Zhou, Jun Zhou, Haoyu Wang, Zhenghao Li, Qikang He, Shaokun Han, Guoliang Li, Xuanhe Zhou, Yeye He, Chunwei Liu, Zirui Tang, Bin Wang, Shen Tang, Kai Zuo, Yuyu Luo, Zhenzhe Zheng, Conghui He, Jing - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-675-blue)](https://github.com/weAIDB/awesome-data-llm)
+[![](https://img.shields.io/badge/GitHub%20Stars-930-blue)](https://github.com/huawei-noah/noah-research/tree/master/QuantWM)
 
 ---
 
 
-[**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**](https://arxiv.org/abs/2601.16163) （**New**）
+[**RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System**](https://huggingface.co/papers/2602.02488) （**New**）
 
-<font color="gray">Moo Jin Kim, Yihuai Gao, Tsung-Yi Lin, Yen-Chen Lin, Yunhao Ge, Grace Lam, Percy Liang, Shuran Song, Ming-Yu Liu, Chelsea Finn, Jinwei Gu - [arXiv]</font>
+<font color="gray">Yinjie Wang, Tianbao Xie, Ke Shen, Mengdi Wang, Ling Yang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-377-blue)](https://github.com/nvlabs/cosmos-policy) ![](https://img.shields.io/badge/Mendeley%20Readers-10-red) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-[**Action100M: A Large-scale Video Action Dataset**](https://arxiv.org/abs/2601.10592) （**New**）
-
-<font color="gray">Delong Chen, Tejaswi Kasarla, Yejin Bang, Mustafa Shukor, Willy Chung, Jade Yu, Allen Bolourchi, Theo Moutakanni, Pascale Fung - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-376-blue)](https://github.com/facebookresearch/Action100M) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-174-blue)](https://github.com/Gen-Verse/Open-AgentRL)
 
 ---
 
 
-[**Dr. Zero: Self-Evolving Search Agents without Training Data**](https://arxiv.org/abs/2601.07055) （**New**）
+[**Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation**](https://huggingface.co/papers/2602.02214) （**New**）
 
-<font color="gray">Zhenrui Yue, Kartikeya Upasani, Xianjun Yang, Suyu Ge, Shaoliang Nie, Yuning Mao, Zhe Liu, Dong Wang - [arXiv]</font>
+<font color="gray">Hongzhou Zhu, Min Zhao, Guande He, Hang Su, Chongxuan Li, Jun Zhu - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-330-blue)](https://github.com/facebookresearch/drzero) ![](https://img.shields.io/badge/Mendeley%20Readers-9-red)
-
----
-
-
-[**AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security**](https://huggingface.co/papers/2601.18491) （**New**）
-
-<font color="gray">Dongrui Liu, Qihan Ren, Chen Qian, Shuai Shao, Yuejin Xie, Yu Li, Zhonghao Yang, Haoyu Luo, Peng Wang, Qingyu Liu, Binxin Hu, Ling Tang, Jilin Mei, Dadi Guo, Leitao Yuan, Junyao Yang, Guanxu Chen, Qih - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-280-blue)](https://github.com/AI45Lab/AgentDoG)
+[![](https://img.shields.io/badge/GitHub%20Stars-86-blue)](https://github.com/thu-ml/Causal-Forcing)
 
 ---
 
 
-[**The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation**](https://huggingface.co/papers/2601.17737) （**New**）
+[**Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces**](https://arxiv.org/abs/2601.11868) （**New**）
 
-<font color="gray">Chenyu Mu, Xin He, Qu Yang, Wanshun Chen, Jiadi Yao, Huang Liu, Zihao Yi, Bo Zhao, Xingyu Chen, Ruotian Ma, Fanghua Ye, Erkun Yang, Cheng Deng, Zhaopeng Tu, Xiaolong Li, Linus - [arXiv]</font>
+<font color="gray">Mike A. Merrill, Alexander G. Shaw, Nicholas Carlini, Boxuan Li, Harsh Raj, Ivan Bercovich, Lin Shi, Jeong Yeon Shin, Thomas Walshe, E. Kelly Buchanan, Junhong Shen, Guanghao Ye, Haowei Lin, Jason Pou - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-251-blue)](https://github.com/Tencent/digitalhuman/tree/main/ScriptAgent) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-
-[**Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives**](https://huggingface.co/papers/2601.20833) （**New**）
-
-<font color="gray">Tengyue Xu, Zhuoyang Qian, Gaoge Liu, Li Ling, Zhentao Zhang, Biao Wu, Shuo Zhang, Ke Lu, Wei Shi, Ziqi Wang, Zheng Feng, Yan Luo, Shu Xu, Yongjin Chen, Zhibo Feng, Zhuo Chen, Bruce Yuan, Harry Wang,  - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-241-blue)](https://github.com/AgentAlphaAGI/Idea2Paper) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-529-blue)](https://github.com/laude-institute/harbor) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
 
-[**LongCat-Flash-Thinking-2601 Technical Report**](https://huggingface.co/papers/2601.16725) （**New**）
+[**Generating readily synthesizable small molecule fluorophore scaffolds with reinforcement learning**](https://arxiv.org/abs/2601.07145) （**New**）
 
-<font color="gray">Meituan LongCat Team, Anchun Gui, Bei Li, Bingyang Tao, Bole Zhou, Borun Chen, Chao Zhang, Chao Zhang, Chen Gao, Chen Zhang, Chengcheng Han, Chenhui Yang, Chuyu Zhang, Cong Chen, Cunguang Wang, Daoru  - [arXiv]</font>
+<font color="gray">Ruhi Sayana, Kate Callon, Jennifer Xu, Jonathan Deutsch, Steven Chu, James Zou, John Janetzko, Rabindra V. Shivnaraine, Kyle Swanson - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-230-blue)](https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601)
+[![](https://img.shields.io/badge/GitHub%20Stars-196-blue)](https://github.com/swansonk14/SyntheMol)
 
 ---
 
 
-[**Yunjue Agent Tech Report: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks**](https://huggingface.co/papers/2601.18226) （**New**）
+[**LLM-in-Sandbox Elicits General Agentic Intelligence**](https://arxiv.org/abs/2601.16206) （**New**）
 
-<font color="gray">Haotian Li, Shijun Yang, Weizhen Qi, Silei Zhao, Rui Hua, Mingzhu Song, Xiaojian Yang, Chao Peng - [arXiv]</font>
+<font color="gray">Daixuan Cheng, Shaohan Huang, Yuxian Gu, Huatong Song, Guoxin Chen, Li Dong, Wayne Xin Zhao, Ji-Rong Wen, Furu Wei - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-223-blue)](https://github.com/YunjueTech/Yunjue-Agent)
+[![](https://img.shields.io/badge/GitHub%20Stars-153-blue)](https://github.com/llm-in-sandbox/llm-in-sandbox) ![](https://img.shields.io/badge/Mendeley%20Readers-7-red) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+[**Scaling Multiagent Systems with Process Rewards**](https://huggingface.co/papers/2601.23228) （**New**）
+
+<font color="gray">Ed Li, Junyu Ren, Cat Yan - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-143-blue)](https://github.com/ltjed/multiagent-coaching)
+
+---
+
+
+[**SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents**](https://huggingface.co/papers/2601.16746) （**New**）
+
+<font color="gray">Yuhang Wang, Yuling Shi, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-126-blue)](https://github.com/Ayanami1314/swe-pruner)
+
+---
+
+
+[**Self-Refining Video Sampling**](https://huggingface.co/papers/2601.18577) （**New**）
+
+<font color="gray">Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Saining Xie, Jaehong Yoon, Sung Ju Hwang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-123-blue)](https://github.com/agwmon/self-refine-video) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+
+[**UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass**](https://arxiv.org/abs/2601.01222) （**New**）
+
+<font color="gray">Mengfei Li, Peng Li, Zheng Zhang, Jiahao Lu, Chengfeng Zhao, Wei Xue, Qifeng Liu, Sida Peng, Wenxiao Zhang, Wenhan Luo, Yuan Liu, Yike Guo - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-115-blue)](https://github.com/murphylmf/UniSH) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
