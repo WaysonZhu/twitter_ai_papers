@@ -105,6 +105,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**An Empirical Study of World Model Quantization**](https://huggingface.co/papers/2602.02110) （**New**）
 
+*Published: 2026-02-02*
+
 <font color="gray">Zhongqian Fu, Tianyi Zhao, Kai Han, Hang Zhou, Xinghao Chen, Yunhe Wang - [arXiv]</font>
 
 [![](https://img.shields.io/badge/GitHub%20Stars-930-blue)](https://github.com/huawei-noah/noah-research/tree/master/QuantWM)
@@ -113,6 +115,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 [**RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System**](https://huggingface.co/papers/2602.02488) （**New**）
+
+*Published: 2026-02-02*
 
 <font color="gray">Yinjie Wang, Tianbao Xie, Ke Shen, Mengdi Wang, Ling Yang - [arXiv]</font>
 
@@ -123,6 +127,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation**](https://huggingface.co/papers/2602.02214) （**New**）
 
+*Published: 2026-02-02*
+
 <font color="gray">Hongzhou Zhu, Min Zhao, Guande He, Hang Su, Chongxuan Li, Jun Zhu - [arXiv]</font>
 
 [![](https://img.shields.io/badge/GitHub%20Stars-86-blue)](https://github.com/thu-ml/Causal-Forcing)
@@ -131,6 +137,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 [**Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces**](https://arxiv.org/abs/2601.11868) （**New**）
+
+*Published: 2026-01-17*
 
 <font color="gray">Mike A. Merrill, Alexander G. Shaw, Nicholas Carlini, Boxuan Li, Harsh Raj, Ivan Bercovich, Lin Shi, Jeong Yeon Shin, Thomas Walshe, E. Kelly Buchanan, Junhong Shen, Guanghao Ye, Haowei Lin, Jason Pou - [arXiv]</font>
 
@@ -141,6 +149,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Generating readily synthesizable small molecule fluorophore scaffolds with reinforcement learning**](https://arxiv.org/abs/2601.07145) （**New**）
 
+*Published: 2026-01-12*
+
 <font color="gray">Ruhi Sayana, Kate Callon, Jennifer Xu, Jonathan Deutsch, Steven Chu, James Zou, John Janetzko, Rabindra V. Shivnaraine, Kyle Swanson - [arXiv]</font>
 
 [![](https://img.shields.io/badge/GitHub%20Stars-196-blue)](https://github.com/swansonk14/SyntheMol)
@@ -149,6 +159,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 [**LLM-in-Sandbox Elicits General Agentic Intelligence**](https://arxiv.org/abs/2601.16206) （**New**）
+
+*Published: 2026-01-22*
 
 <font color="gray">Daixuan Cheng, Shaohan Huang, Yuxian Gu, Huatong Song, Guoxin Chen, Li Dong, Wayne Xin Zhao, Ji-Rong Wen, Furu Wei - [arXiv]</font>
 
@@ -159,6 +171,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Scaling Multiagent Systems with Process Rewards**](https://huggingface.co/papers/2601.23228) （**New**）
 
+*Published: 2026-01-30*
+
 <font color="gray">Ed Li, Junyu Ren, Cat Yan - [arXiv]</font>
 
 [![](https://img.shields.io/badge/GitHub%20Stars-143-blue)](https://github.com/ltjed/multiagent-coaching)
@@ -167,6 +181,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 [**SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents**](https://huggingface.co/papers/2601.16746) （**New**）
+
+*Published: 2026-01-23*
 
 <font color="gray">Yuhang Wang, Yuling Shi, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu - [arXiv]</font>
 
@@ -177,6 +193,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 [**Self-Refining Video Sampling**](https://huggingface.co/papers/2601.18577) （**New**）
 
+*Published: 2026-01-26*
+
 <font color="gray">Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Saining Xie, Jaehong Yoon, Sung Ju Hwang - [arXiv]</font>
 
 [![](https://img.shields.io/badge/GitHub%20Stars-123-blue)](https://github.com/agwmon/self-refine-video) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
@@ -185,6 +203,8 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 [**UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass**](https://arxiv.org/abs/2601.01222) （**New**）
+
+*Published: 2026-01-03*
 
 <font color="gray">Mengfei Li, Peng Li, Zheng Zhang, Jiahao Lu, Chengfeng Zhao, Wei Xue, Qifeng Liu, Sida Peng, Wenxiao Zhang, Wenhan Luo, Yuan Liu, Yike Guo - [arXiv]</font>
 
