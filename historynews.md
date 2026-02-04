@@ -11,6 +11,120 @@ Complete history news
 
 
 
+### 2026-02-04
+
+**[Why Steering Works: Toward a Unified View of Language Model Parameter Dynamics](https://huggingface.co/papers/2602.02343)** NEW
+
+*Published: 2026-02-02*
+
+*Ziwen Xu, Chenyan Wu, Hengyu Sun, Haiwen Hong, Mengru Wang, Yunzhi Yao, Longtao Huang, Hui Xue, Shumin Deng, Zhixuan Chu, Huajun Chen, Ningyu Zhang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,709-blue)](https://github.com/zjunlp/EasyEdit/blob/main/examples/SPLIT.md)
+
+---
+
+
+**[Generating Literature-Driven Scientific Theories at Scale](https://arxiv.org/abs/2601.16282)** NEW
+
+*Published: 2026-01-22*
+
+*Peter Jansen, Peter Clark, Doug Downey, Daniel S. Weld*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-115-blue)](https://github.com/allenai/asta-theorizer)
+
+---
+
+
+**[Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation](https://huggingface.co/papers/2601.20614)** NEW
+
+*Published: 2026-01-28*
+
+*Yanqi Dai, Yuxiang Ji, Xiao Zhang, Yong Wang, Xiangxiang Chu, Zhiwu Lu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-101-blue)](https://github.com/AMAP-ML/MathForge) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models](https://huggingface.co/papers/2601.20354)** NEW
+
+*Published: 2026-01-29*
+
+*Zengbin Wang, Xuecai Hu, Yong Wang, Feng Xiong, Man Zhang, Xiangxiang Chu*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-97-blue)](https://github.com/AMAP-ML/SpatialGenEval)
+
+---
+
+
+**[SERA: Soft-Verified Efficient Repository Agents](https://huggingface.co/papers/2601.20789)** NEW
+
+*Published: 2026-01-28*
+
+*Ethan Shen, Danny Tormoen, Saurabh Shah, Ali Farhadi, Tim Dettmers*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-95-blue)](https://github.com/allenai/SERA)
+
+---
+
+
+**[Innovator-VL: A Multimodal Large Language Model for Scientific Discovery](https://huggingface.co/papers/2601.19325)** NEW
+
+*Published: 2026-01-27*
+
+*Zichen Wen, Boxue Yang, Shuang Chen, Yaojie Zhang, Yuhang Han, Junlong Ke, Cong Wang, Yicheng Fu, Jiawang Zhao, Jiangchao Yao, Xi Fang, Zhen Wang, Henxing Cai, Lin Yao, Zhifeng Gao, Yanhui Hong, Nang Yuan, Yixuan Li, Guojiang Zhao, Haoyi Tao, Nan Wang, Han Lyu, Guolin Ke, Ning Liao, Xiaoxing Wang, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-93-blue)](https://github.com/InnovatorLM/Innovator-VL)
+
+---
+
+
+**[Controlled LLM Training on Spectral Sphere](https://arxiv.org/abs/2601.08393)** NEW
+
+*Published: 2026-01-23*
+
+*Tian Xie, Haoming Luo, Haoyu Tang, Yiwen Hu, Jason Klein Liu, Qingnan Ren, Yang Wang, Wayne Xin Zhao, Rui Yan, Bing Su, Chong Luo, Baining Guo*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/Unakar/Spectral-Sphere-Optimizer) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision](https://huggingface.co/papers/2601.19798)** NEW
+
+*Published: 2026-01-27*
+
+*Zhixiang Wei, Yi Li, Zhehan Kan, Xinghua Jiang, Zuwei Long, Shifeng Liu, Hongze Shen, Wei Liu, Xiaoyu Tan, Haojia Lin, Yubo Zhu, Qianyu Li, Di Yin, Haoyu Cao, Weibo Gu, Xin Li, Yinsong Liu, Deqiang Jiang, Xing Sun, Yunsheng Wu, Mingkong Tang, Shuangyin Liu, Lexiang Tang, Haodong Lin, Junru Lu, etc.*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-89-blue)](https://github.com/TencentCloudADP/youtu-vl) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[Reinforcement Learning via Self-Distillation](https://huggingface.co/papers/2601.20802)** NEW
+
+*Published: 2026-01-28*
+
+*Jonas Hübotter, Frederike Lübeck, Lejs Behric, Anton Baumann, Marco Bagatella, Daniel Marta, Ido Hakimi, Idan Shenfeld, Thomas Kleine Buening, Carlos Guestrin, Andreas Krause*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-9-red) [![](https://img.shields.io/badge/GitHub%20Stars-80-blue)](https://github.com/lasgroup/SDPO)
+
+---
+
+
+**[iFSQ: Improving FSQ for Image Generation with 1 Line of Code](https://huggingface.co/papers/2601.17124)** NEW
+
+*Published: 2026-01-27*
+
+*Bin Lin, Zongjian Li, Yuwei Niu, Kaixiong Gong, Yunyang Ge, Yunlong Lin, Mingzhe Zheng, JianWei Zhang, Miles Yang, Zhao Zhong, Liefeng Bo, Li Yuan*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red) [![](https://img.shields.io/badge/GitHub%20Stars-81-blue)](https://github.com/Tencent-Hunyuan/iFSQ)
+
+---
+
+
+
+
 ### 2026-02-03
 
 **[An Empirical Study of World Model Quantization](https://huggingface.co/papers/2602.02110)** NEW
