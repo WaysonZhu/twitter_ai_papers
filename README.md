@@ -101,114 +101,92 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-02-05]**
+### **[2026-02-06]**
 
-[**Unified Personalized Reward Model for Vision Generation**](https://huggingface.co/papers/2602.02380) （**New**）
+[**WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning**](https://huggingface.co/papers/2602.04634) （**New**）
+
+*Published: 2026-02-04*
+
+<font color="gray">Zelai Xu, Zhexuan Xu, Ruize Zhang, Chunyang Zhu, Shi Yu, Weilin Liu, Quanlu Zhang, Wenbo Ding, Chao Yu, Yu Wang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,378-blue)](https://github.com/RLinf/RLinf/tree/main/examples/wideseek_r1)
+
+---
+
+
+[**ROMA: Recursive Open Meta-Agent Framework for Long-Horizon Multi-Agent Systems**](https://arxiv.org/abs/2602.01848) （**New**）
 
 *Published: 2026-02-02*
 
-<font color="gray">Yibin Wang, Yuhang Zang, Feng Han, Jiazi Bu, Yujie Zhou, Cheng Jin, Jiaqi Wang - [arXiv]</font>
+<font color="gray">Salaheddin Alzu'bi, Baran Nama, Arda Kaz, Anushri Eswaran, Weiyuan Chen, Sarvesh Khetan, Rishab Bala, Tu Vu, Sewoong Oh - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-691-blue)](https://github.com/CodeGoat24/UnifiedReward)
-
----
-
-
-[**Research on World Models Is Not Merely Injecting World Knowledge into Specific Tasks**](https://huggingface.co/papers/2602.01630) （**New**）
-
-*Published: 2026-02-02*
-
-<font color="gray">Bohan Zeng, Kaixin Zhu, Daili Hua, Bozhou Li, Chengzhuo Tong, Yuran Wang, Xinyi Huang, Yifan Dai, Zixiang Zhang, Yifan Yang, Zhou Liu, Hao Liang, Xiaochen Ma, Ruichuan An, Tianyi Bai, Hongcheng Gao, J - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-2,852-blue)](https://github.com/OpenDCAI/DataFlow)
+[![](https://img.shields.io/badge/GitHub%20Stars-4,922-blue)](https://github.com/sentient-agi/ROMA)
 
 ---
 
 
-[**Self-Distillation Enables Continual Learning**](https://huggingface.co/papers/2601.19897) （**New**）
+[**CL-bench: A Benchmark for Context Learning**](https://huggingface.co/papers/2602.03587) （**New**）
 
-*Published: 2026-01-27*
+*Published: 2026-02-03*
 
-<font color="gray">Idan Shenfeld, Mehul Damani, Jonas Hübotter, Pulkit Agrawal - [arXiv]</font>
+<font color="gray">Shihan Dou, Ming Zhang, Zhangyue Yin, Chenhao Huang, Yujiong Shen, Junzhe Wang, Jiayi Chen, Yuchen Ni, Junjie Ye, Cheng Zhang, Huaibing Xie, Jianglu Hu, Shaolei Wang, Weichao Wang, Yanling Xiao, Yitin - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-77-blue)](https://github.com/idanshen/Self-Distillation) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
-
----
-
-
-[**VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents**](https://huggingface.co/papers/2601.16973) （**New**）
-
-*Published: 2026-01-23*
-
-<font color="gray">Zirui Wang, Junyi Zhang, Jiaxin Ge, Long Lian, Letian Fu, Lisa Dunlap, Ken Goldberg, XuDong Wang, Ion Stoica, David M. Chan, Sewon Min, Joseph E. Gonzalez - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-74-blue)](https://github.com/visgym/VIsGym)
+[![](https://img.shields.io/badge/GitHub%20Stars-306-blue)](https://github.com/Tencent-Hunyuan/CL-bench)
 
 ---
 
 
-[**DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation**](https://huggingface.co/papers/2601.22153) （**New**）
-
-*Published: 2026-01-29*
-
-<font color="gray">Haozhe Xie, Beichen Wen, Jiarui Zheng, Zhaoxi Chen, Fangzhou Hong, Haiwen Diao, Ziwei Liu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/hzxie/DynamicVLA)
-
----
-
-
-[**MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources**](https://huggingface.co/papers/2601.22054) （**New**）
-
-*Published: 2026-01-29*
-
-<font color="gray">Baorui Ma, Jiahui Yang, Donglin Di, Xuancheng Zhang, Jianxun Cui, Hao Li, Yan Xie, Wei Chen - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-62-blue)](https://github.com/metric-anything/metric-anything)
-
----
-
-
-[**KAPSO: A Knowledge-grounded framework for Autonomous Program Synthesis and Optimization**](https://huggingface.co/papers/2601.21526) （**New**）
-
-*Published: 2026-01-31*
-
-<font color="gray">Alireza Nadafian, Alireza Mohammadshahi, Majid Yazdani - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-62-blue)](https://github.com/Leeroo-AI/kapso)
-
----
-
-
-[**AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning**](https://huggingface.co/papers/2601.18631) （**New**）
-
-*Published: 2026-01-28*
-
-<font color="gray">Mingyang Song, Haoyu Sun, Jiawei Gu, Linjie Li, Luxin Xu, Ranjay Krishna, Yu Cheng - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/ssmisya/AdaReasoner)
-
----
-
-
-[**Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models**](https://huggingface.co/papers/2601.19834) （**New**）
-
-*Published: 2026-01-27*
-
-<font color="gray">Jialong Wu, Xiaoying Zhang, Hongyi Yuan, Xiangcheng Zhang, Tianhao Huang, Changjing He, Chaoyi Deng, Renrui Zhang, Youbin Wu, Mingsheng Long - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-57-blue)](https://github.com/thuml/Reasoning-Visual-World) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-
-[**ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas**](https://huggingface.co/papers/2601.21558) （**New**）
+[**Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning**](https://huggingface.co/papers/2602.00298) （**New**）
 
 *Published: 2026-01-30*
 
-<font color="gray">Xiaoyu Tian, Haotian Wang, Shuaiting Chen, Hao Zhou, Kaichi Yu, Yudian Zhang, Jade Ouyang, Junxi Yin, Jiong Chen, Baoyan Guo, Lei Zhang, Junjie Tao, Yuansheng Song, Ming Cui, Chengwei Liu - [arXiv]</font>
+<font color="gray">Abhishek Mishra, Mugilan Arulvanan, Reshma Ashok, Polina Petrova, Deepesh Suranjandass, Donnie Winkelmann - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/LianjiaTech/astra)
+[![](https://img.shields.io/badge/GitHub%20Stars-258-blue)](https://github.com/emergent-misalignment/emergent-misalignment)
+
+---
+
+
+[**AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations**](https://huggingface.co/papers/2602.03828) （**New**）
+
+*Published: 2026-02-03*
+
+<font color="gray">Minjun Zhu, Zhen Lin, Yixuan Weng, Panzhong Lu, Qiujie Xie, Yifan Wei, Sifan Liu, Qiyao Sun, Yue Zhang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-62-blue)](https://github.com/ResearAI/AutoFigure-Edit) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+[**DIFFA-2: A Practical Diffusion Large Language Model for General Audio Understanding**](https://huggingface.co/papers/2601.23161) （**New**）
+
+*Published: 2026-01-30*
+
+<font color="gray">Jiaming Zhou, Xuxin Cheng, Shiwan Zhao, Yuhang Jia, Cao Liu, Ke Zeng, Xunliang Cai, Yong Qin - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/NKU-HLT/DIFFA)
+
+---
+
+
+[**Shaping capabilities with token-level data filtering**](https://huggingface.co/papers/2601.21571) （**New**）
+
+*Published: 2026-01-29*
+
+<font color="gray">Neil Rathi, Alec Radford - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-52-blue)](https://github.com/neilrathi/token-filtering)
+
+---
+
+
+[**AACR-Bench: Evaluating Automatic Code Review with Holistic Repository-Level Context**](https://huggingface.co/papers/2601.19494) （**New**）
+
+*Published: 2026-01-29*
+
+<font color="gray">Lei Zhang, Yongda Yu, Minghui Yu, Xinxin Guo, Zhengqi Zhuang, Guoping Rong, Dong Shao, Haifeng Shen, Hongyu Kuang, Zhengfeng Li, Boge Wang, Guoan Zhang, Bangyu Xiang, Xiaobin Xu - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/alibaba/aacr-bench)
 
 ---
 
